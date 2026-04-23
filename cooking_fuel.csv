@@ -1,0 +1,1633 @@
+transaction_id,customer_id,first_name,last_name,email,state,product_type,size,quantity,unit_price,discount_amount,total_amount,collection_type,sale_date
+1800824,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-07-04
+8921679,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Blue Rhino,33lb,2,49.95,5.0,94.9,Pickup,2024-11-18
+2697690,1485654,Patricia,Long,patricia_long@gmail.com.com,Tennessee,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-07-18
+7196363,5896624,Felix,Cox,fcox1042@comcast.net,Nevada,AmeriGas,420lb,4,849.0,339.6,3056.4,Delivery,2024-06-07
+7103303,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-06-24
+1707302,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-03-21
+9788815,2525206,Jennifer,Young,jyoung@outlook.com,Tennessee,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-01-18
+3120605,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-12-15
+4536127,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,AmeriGas,33lb,2,49.95,7.99,91.91,Delivery,2024-04-25
+1467937,7844947,Brianna,Cook,bcook315@@yahoo.com,Utah,NGL Energy,420lb,3,849.0,254.7,2292.3,Delivery,2024-05-10
+1161102,7145971,Kenji,Henderson,kenji.henderson@live.com,Massachusetts,NGL Energy,100lb,1,149.0,0.0,149.0,Delivery,2024-03-21
+4039834,9225346,Chloe,White,chloe19@yahoo.com,Florida,Blue Rhino,420lb,2,849.0,135.84,1562.16,Delivery,2024-02-09
+4934345,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-01-22
+4282937,2696860,Tamara,Burns,tamara.burns@att.net,Iowa,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-10-11
+6098837,8519121,William,Lewis,william.l89@hotmail.com,Georgia,Suburban Propane,420lb,4,849.0,169.8,3226.2,Pickup,2024-10-31
+8896486,9911492,Anita,Williamson,awilliamson@outlook.com,Virginia,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-06-16
+9296512,5435261,Chantel,Collins,chantel_collins@icloud.com,Georgia,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-02-18
+5474022,7082139,Lucia,Watson,watson.l@yahoo.com,Maryland,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-10-20
+9268480,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,Ferrellgas,100lb,2,149.0,44.7,253.3,Delivery,2024-02-02
+1155332,9612629,Isabella,Griffin,isabella.g58@yahoo.com,Iowa,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-04-12
+9038102,5147994,Patrick,Olson,patrick.o57@sbcglobal.net,Florida,Suburban Propane,1lb,2,4.49,0.0,8.98,Delivery,2024-02-29
+4378948,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-11-05
+8110523,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,AmeriGas,20lb,2,24.99,5.0,44.98,Pickup,2024-08-15
+9162003,8719145,Kenji,Clark,kenjiclark573@comcast.net,Louisiana,Ferrellgas,33lb,4,49.95,19.98,179.82,Delivery,2024-10-30
+6777230,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-04-17
+8581730,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-05-21
+5569064,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,NGL Energy,1lb,5,4.49,0.0,22.45,Pickup,2024-03-28
+8192211,7372653,Rosa,Reed,rosa98@sbcglobal.net,Utah,Suburban Propane,1lb,4,4.49,0.0,17.96,Pickup,2024-11-01
+6630978,9143903,Dmitri,Burns,dburns572@outlook.com,Connecticut,AmeriGas,20lb,3,24.99,7.5,67.47,Delivery,2024-07-10
+8714152,2672884,Erik,Gibson,egibson@gmail.com,Ohio,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-04-30
+9249791,2338687,Irina,Walker,irina_walker@comcast,Utah,Suburban Propane,100lb,4,149.0,89.4,506.6,Pickup,2024-06-04
+3614824,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Suburban Propane,420lb,2,849.0,169.8,1528.2,Delivery,2024-03-16
+2622794,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,AmeriGas,100lb,4,149.0,0.0,596.0,Delivery,2024-10-20
+8986637,7191135,Monique,Snyder,monique96@att.net,Minnesota,AmeriGas,33lb,5,49.95,0.0,249.75,Pickup,2024-03-24
+6162867,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Suburban Propane,420lb,4,849.0,0.0,3396.0,Pickup,2024-02-04
+9309978,2338687,Irina,Walker,irina_walker@comcast.net,Utah,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-09-14
+3468450,2913049,Sigrid,Woods,sigrid94@icloud.com,Utah,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-02-29
+2007511,6507321,Bridget,Thompson,bridget66@hotmail.com,Colorado,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-05-03
+2140205,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,AmeriGas,20lb,5,24.99,10.0,114.95,Delivery,2024-10-27
+9770547,4536777,Ricardo,Kim,ricardo.kim@live.com,Minnesota,AmeriGas,100lb,4,149.0,0.0,596.0,Pickup,2024-02-06
+6957204,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,AmeriGas,420lb,5,849.0,212.25,4032.75,Pickup,2024-09-17
+8615616,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-01-17
+3172932,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-09-04
+6832167,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Ferrellgas,100lb,4,149.0,0.0,596.0,Pickup,2024-10-21
+1162422,6018975,Arjun,Bell,arjun_bell@sbcglobal.net,Oklahoma,Suburban Propane,33lb,3,49.95,17.98,131.87,Delivery,2024-10-15
+6384429,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,Suburban Propane,1lb,4,4.49,1.8,16.16,Pickup,2024-06-06
+9795418,5960271,Lucia,King,king.l@icloud.com,Massachusetts,Blue Rhino,20lb,1,24.99,3.0,21.99,Delivery,2024-12-31
+1552000,2458591,Arjun,Martinez,arjunmartinez522@gmail.com,Missouri,Blue Rhino,33lb,1,49.95,0.0,49.95,Pickup,2024-05-15
+9243207,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-01-03
+7194004,8377556,Daiki,Ross,dross1492@outlook.com,Washington,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-02-03
+7300065,7891662,Patricia,Price,price.p@sbcglobal.net,Connecticut,AmeriGas,1lb,2,4.49,1.35,7.63,Pickup,2024-04-03
+3340778,5993143,Siobhan,Morris,siobhan45@sbcglobal.net,Minnesota,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-06-06
+8604827,4470105,Pooja,Coleman,pooja.coleman@live.com,Louisiana,Suburban Propane,1lb,1,4.49,0.0,4.49,Delivery,2024-07-04
+7291943,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,NGL Energy,1lb,4,4.49,0.0,17.96,Delivery,2024-01-24
+6184132,4768844,Stephen,Nelson,stephen.nelson@gmail.com,Virginia,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-09-13
+8745037,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Ferrellgas,100lb,4,149.0,0.0,596.0,Delivery,2024-08-24
+5179788,3294774,Lamont,Anderson,landerson143@hotmail.com,Washington,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-04-17
+4371228,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,AmeriGas,20lb,2,24.99,6.0,43.98,Delivery,2024-08-02
+8910276,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,AmeriGas,100lb,5,149.0,74.5,670.5,Delivery,2024-12-02
+9213276,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,Blue Rhino,100lb,3,149.0,67.05,379.95,Pickup,2024-01-01
+5999260,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-07-31
+8537488,2319479,Priya,Cruz,priya.c22@aol.com,Florida,NGL Energy,20lb,3,24.99,0.0,74.97,Delivery,2024-08-17
+2333002,7268384,Sanjay,Vasquez,sanjay.v32@sbcglobal.net,Massachusetts,AmeriGas,420lb,1,849.0,101.88,747.12,Pickup,2024-11-01
+8127778,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,Ferrellgas,33lb,5,49.95,29.97,219.78,Delivery,2024-01-20
+9043979,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,AmeriGas,33lb,3,49.95,22.48,127.37,Pickup,2024-05-09
+1960353,1624315,Aoife,Ruiz,aoiferuiz555@yahoo.com,Ohio,Ferrellgas,33lb,1,49.95,5.99,43.96,Pickup,2024-07-26
+5755579,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-04-05
+7656588,4052834,Ana,Wallace,ana.wallace@attnet,Missouri,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-06-06
+7647377,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Blue Rhino,20lb,1,24.99,0.0,24.99,Pickup,2024-02-25
+3334991,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Blue Rhino,33lb,2,49.95,0.0,99.9,Pickup,2024-03-24
+7043399,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,Ferrellgas,100lb,1,149.0,7.45,141.55,Pickup,2024-06-21
+4113428,3420404,Stephen,Woods,stephen.woods@comcast.net,Ohio,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-05-05
+6861649,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,AmeriGas,420lb,3,849.0,0.0,2547.0,Pickup,2024-11-15
+3704873,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-11-02
+5426369,8719145,Kenji,Clark,kenjiclark573@comcast.net,Louisiana,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-04-14
+3863692,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,NGL Energy,1lb,1,4.49,0.67,3.82,Pickup,2024-06-14
+5653822,6541407,Antoine,Walker,antoine.walker@outlook.com,Tennessee,Suburban Propane,33lb,4,49.95,0.0,199.8,Delivery,2024-04-23
+6562506,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-08-16
+7147725,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,Blue Rhino,420lb,1,849.0,0.0,849.0,Pickup,2024-01-24
+9309231,4431161,Priya,Cooper,priya37@att.net,Colorado,Suburban Propane,100lb,5,149.0,59.6,685.4,Pickup,2024-11-07
+9290765,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-02-17
+5255656,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,NGL Energy,420lb,4,849.0,0.0,3396.0,Delivery,2024-12-19
+5191722,9240971,Natasha,Wright,natashawright1000@outlook.com,Iowa,Ferrellgas,420lb,5,849.0,0.0,4245.0,Pickup,2024-05-05
+6053293,2919136,Fernando,Murphy,fernando_murphy@sbcglobal.net,Illinois,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-05-29
+7841598,4431161,Priya,Cooper,priya37@att.net,Colorado,Blue Rhino,420lb,2,849.0,0.0,1698.0,Delivery,2024-07-11
+5187652,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,NGL Energy,20lb,5,24.99,0.0,124.95,Delivery,2024-08-19
+7069317,7191135,Monique,Snyder,monique96@att.net,Minnesota,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-02-08
+5592983,1801102,Fatima,Gonzalez,fgonzalez203@live.com,Utah,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-11-03
+4029442,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,Suburban Propane,1lb,2,4.49,0.0,8.98,Pickup,2024-04-07
+9783147,1432519,Ana,Jones,ana.j42@aol.com.com,Texas,Blue Rhino,20lb,1,24.99,0.0,24.99,Pickup,2024-12-15
+8126489,7783308,Kevin,Stevens,kevin.stevens@outlook.com,Louisiana,NGL Energy,1lb,5,4.49,0.0,22.45,Pickup,2024-04-25
+1660619,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,Suburban Propane,1lb,4,4.49,2.16,15.8,Delivery,2024-07-21
+3374513,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Blue Rhino,20lb,1,24.99,3.75,21.24,Pickup,2024-08-16
+9283332,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-01-27
+5480410,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Suburban Propane,420lb,3,849.0,203.76,2343.24,Pickup,2024-10-28
+6408741,9612629,Isabella,Griffin,isabella.g58@yahoo.com,Iowa,NGL Energy,33lb,5,49.95,0.0,249.75,Pickup,2024-05-31
+9459346,3030966,Fernando,Anderson,anderson.f@aol.com,Florida,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-02-19
+6487124,8399399,Dwight,Gonzalez,gonzalez.d@outlook.com,Tennessee,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-01-13
+8335724,8926478,Sofia,Murray,sofia.murray@sbcglobal.net,Texas,NGL Energy,100lb,4,149.0,0.0,596.0,Delivery,2024-03-10
+2826831,8795419,Sigrid,Crawford,sigrid57@live.com,Virginia,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-06-27
+7847411,7858012,Eugene,Hernandez,eugenehernandez750@aol.com,Minnesota,Ferrellgas,100lb,3,149.0,0.0,447.0,Pickup,2024-07-10
+7290752,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,NGL Energy,420lb,4,849.0,0.0,3396.0,Delivery,2024-06-28
+3379602,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Ferrellgas,33lb,2,49.95,11.99,87.91,Delivery,2024-03-18
+9245659,1899411,Diego,Hill,diego_hill@live.com,New York,Suburban Propane,20lb,3,24.99,0.0,74.97,Delivery,2024-08-13
+5603547,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,AmeriGas,20lb,5,24.99,18.74,106.21,Delivery,2024-12-28
+5072543,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-04-13
+9646766,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-07-20
+3634568,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,Ferrellgas,100lb,5,149.0,0.0,745.0,Pickup,2024-12-29
+3622672,6307805,Ali,Flores,ali.f51@aol.com,Ohio,NGL Energy,20lb,2,24.99,0.0,49.98,Delivery,2024-04-10
+8431976,9302946,Antoine,Watson,antoine.watson@@att.net,Tennessee,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-02-11
+7352396,1432519,Ana,Jones,ana.j42@aol.com,Texas,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-02-14
+5406118,4551070,Ethan,Long,long.e@aol.com,Utah,Blue Rhino,420lb,4,849.0,407.52,2988.48,Delivery,2024-08-11
+6621223,9230828,Emma,Carter,ecarter@aol.com,Minnesota,NGL Energy,100lb,1,149.0,0.0,149.0,Delivery,2024-04-25
+2635366,3508522,Paulo,Washington,paulowashington1664@comcast.net,Georgia,NGL Energy,33lb,2,49.95,0.0,99.9,Pickup,2024-07-11
+5780038,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Ferrellgas,1lb,4,4.49,2.16,15.8,Pickup,2024-09-24
+5950084,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Suburban Propane,420lb,3,849.0,127.35,2419.65,Delivery,2024-06-24
+6752873,9225346,Chloe,White,chloe19@yahoo.com,Florida,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-11-16
+3198789,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Suburban Propane,1lb,5,4.49,0.0,22.45,Pickup,2024-04-03
+7723485,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,Blue Rhino,33lb,1,49.95,7.49,42.46,Delivery,2024-02-19
+3134259,7296605,Priya,Edwards,priya.e90@yahoo.com,Maryland,AmeriGas,420lb,1,849.0,42.45,806.55,Delivery,2024-06-03
+3284720,2893218,Thomas,Gonzalez,thomas.gonzalez@live,Florida,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-09-05
+6093108,7907400,Aisha,Ward,aishaward858@outlook.com,Oklahoma,AmeriGas,1lb,5,4.49,0.0,22.45,Pickup,2024-10-02
+4623343,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Blue Rhino,1lb,3,4.49,0.67,12.8,Delivery,2024-07-28
+8478868,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-03-13
+8608923,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Suburban Propane,33lb,4,49.95,29.97,169.83,Delivery,2024-04-23
+4967894,9748499,Aoife,Bryant,aoife.bryant@gmail.com,Tennessee,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-08-05
+3557213,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,AmeriGas,20lb,3,24.99,11.25,63.72,Pickup,2024-07-26
+9472875,9132114,Maria,Rodriguez,maria.r21@live.com,Michigan,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-05-14
+1762444,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-02-19
+1898516,3770370,Nadia,Washington,washington.n@live.com,Maryland,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-03-31
+6739966,7082139,Lucia,Watson,watson.l@yahoo.com,Maryland,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-08-20
+9900282,7631419,Barbara,Johnson,barbara_johnson@icloud.com,Ohio,Ferrellgas,100lb,1,149.0,14.9,134.1,Delivery,2024-07-02
+5278461,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-01-11
+4954093,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Suburban Propane,100lb,4,149.0,0.0,596.0,Delivery,2024-05-24
+4018677,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,NGL Energy,1lb,4,4.49,0.0,17.96,Pickup,2024-11-15
+7935621,7171347,Ricardo,West,ricardo_west@sbcglobal.net,Missouri,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-09-10
+9663280,5098412,Takeshi,Wood,twood1782@outlook.com,Indiana,Suburban Propane,33lb,3,49.95,0.0,149.85,Delivery,2024-06-02
+4262346,7923579,Sanjay,Simpson,ssimpson@att.net,North Carolina,Blue Rhino,20lb,1,24.99,2.0,22.99,Delivery,2024-08-11
+8737309,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-12-27
+2164313,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-05-29
+8350277,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,Blue Rhino,420lb,2,849.0,0.0,1698.0,Delivery,2024-09-08
+5594635,9225346,Chloe,White,chloe19@yahoo.com,Florida,Blue Rhino,20lb,4,24.99,8.0,91.96,Pickup,2024-03-09
+5616776,6422534,Dwight,Hill,dwighthill1035@sbcglobal.net,New Mexico,Suburban Propane,100lb,1,149.0,0.0,149.0,Delivery,2024-04-17
+3061828,1624315,Aoife,Ruiz,aoiferuiz555@yahoo.com,Ohio,NGL Energy,33lb,2,49.95,0.0,99.9,Delivery,2024-09-20
+2647562,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Blue Rhino,420lb,4,849.0,0.0,3396.0,Delivery,2024-01-17
+8452780,8519121,William,Lewis,william.l89@@hotmail.com,Georgia,Suburban Propane,100lb,3,149.0,53.64,393.36,Delivery,2024-02-16
+8545615,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Suburban Propane,33lb,4,49.95,0.0,199.8,Pickup,2024-02-10
+5142216,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,NGL Energy,420lb,2,849.0,254.7,1443.3,Delivery,2024-11-09
+8263690,7082139,Lucia,Watson,watson.l@yahoo.com,Maryland,Ferrellgas,1lb,3,4.49,0.0,13.47,Delivery,2024-01-29
+6640806,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Ferrellgas,420lb,2,849.0,0.0,1698.0,Delivery,2024-09-05
+4768723,2567468,Andre,Carter,acarter@live.com,Virginia,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-08-21
+4450430,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,Ferrellgas,33lb,5,49.95,0.0,249.75,Delivery,2024-12-21
+9090660,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-08-24
+6026983,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Suburban Propane,33lb,2,49.95,5.0,94.9,Delivery,2024-02-05
+8359842,6018975,Arjun,Bell,arjun_bell@sbcglobal.net,Oklahoma,Suburban Propane,420lb,1,849.0,0.0,849.0,Pickup,2024-08-31
+8783741,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Suburban Propane,100lb,1,149.0,0.0,149.0,Pickup,2024-06-12
+5052611,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,AmeriGas,100lb,1,149.0,11.92,137.08,Delivery,2024-08-13
+3673793,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-03-17
+3869392,8007741,Finn,Allen,finn.allen@comcast.net,Connecticut,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-06-15
+7110145,2921542,Mei,Cruz,mei.cruz@yahoo.com,Louisiana,Ferrellgas,20lb,4,24.99,14.99,84.97,Delivery,2024-04-13
+7417663,8318550,William,Bryant,william55@yahoo.com,Louisiana,Suburban Propane,20lb,3,24.99,6.0,68.97,Delivery,2024-08-15
+8155873,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-03-01
+1736129,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,Blue Rhino,100lb,4,149.0,0.0,596.0,Pickup,2024-07-31
+7897563,7333337,Ryo,Lee,rlee@att.net,New York,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-02-01
+7251562,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-09-30
+9545877,4024309,Dmitri,Morales,dmitri.m18sbcglobal.net,Ohio,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-03-19
+6268490,8344365,Benjamin,Webb,bwebb@att.net,Kansas,AmeriGas,100lb,2,149.0,29.8,268.2,Delivery,2024-07-07
+8617224,9935249,Boris,Wells,boris51@att.net,Oklahoma,Blue Rhino,420lb,1,849.0,0.0,849.0,Pickup,2024-08-29
+3244614,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,Ferrellgas,100lb,3,149.0,0.0,447.0,Pickup,2024-07-05
+5488496,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Ferrellgas,420lb,5,849.0,424.5,3820.5,Delivery,2024-03-01
+1315519,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,Suburban Propane,100lb,1,149.0,7.45,141.55,Pickup,2024-11-11
+3909338,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-07-26
+3318275,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Suburban Propane,420lb,5,849.0,636.75,3608.25,Delivery,2024-02-27
+7107490,7322070,Dwight,Phillips,dwight46@sbcglobal.net,Massachusetts,AmeriGas,420lb,3,849.0,0.0,2547.0,Delivery,2024-05-18
+6162843,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Suburban Propane,33lb,3,49.95,0.0,149.85,Pickup,2024-06-22
+7837960,6357240,Peter,Jordan,peter72@outlook.com,New York,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-01-25
+7883587,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Blue Rhino,1lb,5,4.49,3.37,19.08,Pickup,2024-07-09
+2389566,3508522,Paulo,Washington,paulowashington1664@comcastnet,Georgia,Suburban Propane,1lb,1,4.49,0.0,4.49,Pickup,2024-05-10
+6327664,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-03-12
+6309796,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,Ferrellgas,420lb,5,849.0,0.0,4245.0,Delivery,2024-03-01
+1051543,2326581,Zoe,Perry,zoe.p35@yahoo.com,Colorado,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-10-03
+9199476,2721170,Lars,Wright,larswright1637@hotmail.com,North Carolina,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-08-30
+6405839,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,NGL Energy,20lb,1,24.99,0.0,24.99,Pickup,2024-02-27
+1494247,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-05-28
+5174163,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,NGL Energy,20lb,2,24.99,6.0,43.98,Pickup,2024-12-11
+6210006,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,Suburban Propane,100lb,5,149.0,0.0,745.0,Delivery,2024-02-22
+3928275,1604451,Takeshi,Singh,tsingh@att.net,California,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-08-11
+5002586,7067228,Elena,Collins,elena.collins@yahoo,Maryland,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-11-16
+1351266,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Suburban Propane,33lb,2,49.95,11.99,87.91,Pickup,2024-09-15
+1502308,2326581,Zoe,Perry,zoe.p35@yahoo.com,Colorado,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-12-27
+8482755,4536777,Ricardo,Kim,ricardo.kim@live.com,Minnesota,AmeriGas,33lb,4,49.95,0.0,199.8,Delivery,2024-07-30
+9191751,1879109,Carlos,Gonzalez,carlosgonzalez1602@att.net,Oregon,AmeriGas,33lb,1,49.95,0.0,49.95,Delivery,2024-04-25
+6251441,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,Suburban Propane,20lb,3,24.99,0.0,74.97,Delivery,2024-06-22
+5629621,9225346,Chloe,White,chloe19@yahoo.com,Florida,Blue Rhino,420lb,4,849.0,169.8,3226.2,Pickup,2024-09-22
+1037485,1879109,Carlos,Gonzalez,carlosgonzalez1602@att.net,Oregon,NGL Energy,100lb,2,149.0,0.0,298.0,Pickup,2024-03-01
+9060593,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Ferrellgas,100lb,3,149.0,0.0,447.0,Delivery,2024-06-23
+7199749,3508522,Paulo,Washington,paulowashington1664@comcast.net,Georgia,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-04-03
+9778699,9612629,Isabella,Griffin,isabella.g58@yahoo.com,Iowa,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-07-23
+6587015,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-04-04
+8765307,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Suburban Propane,33lb,3,49.95,0.0,149.85,Pickup,2024-06-02
+4171246,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,AmeriGas,1lb,5,4.49,0.0,22.45,Pickup,2024-12-04
+1810848,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,NGL Energy,20lb,2,24.99,0.0,49.98,Pickup,2024-12-23
+4297008,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Suburban Propane,420lb,3,849.0,0.0,2547.0,Delivery,2024-04-02
+9278722,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Suburban Propane,33lb,3,49.95,0.0,149.85,Pickup,2024-03-22
+3476408,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-04-03
+6038910,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-01-04
+1110690,5098412,Takeshi,Wood,twood1782@outlook.com,Indiana,NGL Energy,20lb,4,24.99,5.0,94.96,Delivery,2024-07-19
+9664866,7223751,Aiko,Cole,acole@yahoo.com,Colorado,Suburban Propane,420lb,4,849.0,0.0,3396.0,Delivery,2024-09-28
+2861110,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,AmeriGas,420lb,5,849.0,0.0,4245.0,Pickup,2024-09-19
+8223223,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,NGL Energy,33lb,5,49.95,0.0,249.75,Delivery,2024-07-07
+8079391,9797727,Diego,Cooper,diego_cooper@icloud.com,North Carolina,Ferrellgas,33lb,5,49.95,37.46,212.29,Pickup,2024-02-07
+9939702,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-03-13
+9982810,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Blue Rhino,100lb,3,149.0,0.0,447.0,Delivery,2024-02-04
+4120669,8519121,William,Lewis,william.l89@hotmail.com,Georgia,Suburban Propane,33lb,5,49.95,0.0,249.75,Delivery,2024-08-31
+9880006,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,AmeriGas,33lb,3,49.95,0.0,149.85,Pickup,2024-12-09
+8775925,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-01-21
+8981342,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Suburban Propane,420lb,3,849.0,0.0,2547.0,Delivery,2024-01-13
+5329920,2042273,Roberto,Stevens,rstevens@hotmail.com,Missouri,NGL Energy,420lb,5,849.0,0.0,4245.0,Delivery,2024-06-03
+7880270,2512187,Maeve,Long,mlong@comcast.net,Connecticut,Suburban Propane,20lb,3,24.99,3.75,71.22,Delivery,2024-01-21
+6675742,7818496,Marcus,Owens,owens.m@icloud.com,Illinois,NGL Energy,420lb,5,849.0,339.6,3905.4,Delivery,2024-09-09
+8286418,6539837,Dwight,Wright,dwight_wright@hotmail.com,Arizona,Suburban Propane,1lb,2,4.49,0.0,8.98,Pickup,2024-06-21
+7829609,7891662,Patricia,Price,price.p@sbcglobal.net,Connecticut,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-09-17
+9179175,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,Suburban Propane,420lb,1,849.0,0.0,849.0,Pickup,2024-12-10
+2529935,9689889,Daniel,Thomas,daniel.t16@attnet,Nevada,AmeriGas,100lb,3,149.0,53.64,393.36,Pickup,2024-07-06
+5771825,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,NGL Energy,420lb,2,849.0,0.0,1698.0,Delivery,2024-11-09
+3149723,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,Ferrellgas,420lb,4,849.0,407.52,2988.48,Delivery,2024-08-28
+1925278,4431161,Priya,Cooper,priya37@att.net,Colorado,AmeriGas,100lb,5,149.0,37.25,707.75,Pickup,2024-02-26
+6500359,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,NGL Energy,420lb,2,849.0,0.0,1698.0,Delivery,2024-09-24
+8977571,2458591,Arjun,Martinez,arjunmartinez522@gmail.com,Missouri,Ferrellgas,1lb,1,4.49,0.0,4.49,Delivery,2024-02-25
+1992308,6357240,Peter,Jordan,peter72@outlook.com,New York,Ferrellgas,1lb,2,4.49,1.35,7.63,Pickup,2024-08-24
+4840752,1279121,Takeshi,Foster,foster.t@yahoo.com,Connecticut,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-02-20
+9239948,1563316,Nathan,Thomas,nathan.thomas@icloud.com,Georgia,NGL Energy,1lb,2,4.49,0.9,8.08,Pickup,2024-08-31
+4194751,1563316,Nathan,Thomas,nathan.thomas@icloud.com,Georgia,Suburban Propane,1lb,4,4.49,0.0,17.96,Delivery,2024-04-12
+9960751,4442778,Jessica,Snyder,jessica.s30@icloud.com,Arizona,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-06-28
+1979271,9988193,Siobhan,Garcia,garcia.s@att.net,New York,Ferrellgas,420lb,5,849.0,0.0,4245.0,Delivery,2024-07-09
+3190232,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Suburban Propane,33lb,2,49.95,7.99,91.91,Delivery,2024-01-02
+1479597,8318550,William,Bryant,william55@yahoo.com,Louisiana,Suburban Propane,420lb,4,849.0,0.0,3396.0,Pickup,2024-03-02
+3560283,3920762,Kenji,Woods,kenjiwoods486@icloud.com,Georgia,Blue Rhino,20lb,2,24.99,0.0,49.98,Pickup,2024-02-06
+2953294,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Blue Rhino,420lb,3,849.0,0.0,2547.0,Pickup,2024-07-14
+8327199,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,Blue Rhino,1lb,2,4.49,0.0,8.98,Delivery,2024-11-21
+3912886,6682698,Keisha,Stevens,kstevens@yahoo.com,Oklahoma,AmeriGas,100lb,3,149.0,35.76,411.24,Delivery,2024-01-21
+6376490,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,Ferrellgas,33lb,5,49.95,0.0,249.75,Delivery,2024-04-12
+4845687,9480665,Natasha,Patel,npatel@att.net,Oklahoma,AmeriGas,20lb,4,24.99,5.0,94.96,Delivery,2024-03-14
+7309161,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Ferrellgas,100lb,3,149.0,67.05,379.95,Pickup,2024-10-21
+9945709,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-09-01
+3264070,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Blue Rhino,1lb,4,4.49,1.44,16.52,Pickup,2024-04-21
+3719366,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,NGL Energy,1lb,1,4.49,0.0,4.49,Pickup,2024-06-18
+9059592,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Blue Rhino,20lb,4,24.99,0.0,99.96,Pickup,2024-07-19
+3610008,2950183,Ivan,Singh,ivansingh1915@sbcglobal.net,Nevada,AmeriGas,1lb,2,4.49,0.9,8.08,Pickup,2024-05-20
+4334495,2921542,Mei,Cruz,mei.cruz@yahoo.com,Louisiana,Ferrellgas,20lb,1,24.99,0.0,24.99,Pickup,2024-11-23
+9254874,5418934,Andre,Evans,andreevans1857@att.net,Michigan,AmeriGas,20lb,3,24.99,6.0,68.97,Delivery,2024-05-27
+4085491,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Blue Rhino,1lb,1,4.49,0.0,4.49,Pickup,2024-10-30
+3946849,5408072,Isabel,Ramos,ramos.i@live.com,Ohio,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-10-03
+6663891,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-01-08
+6447428,6539837,Dwight,Wright,dwight_wright@hotmail.com,Arizona,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-03-14
+5061765,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Ferrellgas,420lb,1,849.0,0.0,849.0,Delivery,2024-08-22
+8029809,2323049,Omar,Edwards,omar_edwards@att.net,Michigan,Suburban Propane,420lb,2,849.0,169.8,1528.2,Pickup,2024-04-23
+2081661,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Blue Rhino,100lb,2,149.0,29.8,268.2,Pickup,2024-06-10
+1438686,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-07-13
+9230125,1899411,Diego,Hill,diego_hill@live.com,New York,NGL Energy,420lb,5,849.0,0.0,4245.0,Pickup,2024-11-11
+1334200,7171347,Ricardo,West,ricardo_west@sbcglobal.net,Missouri,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-04-12
+3914404,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-01-23
+5368887,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,AmeriGas,33lb,1,49.95,0.0,49.95,Delivery,2024-03-14
+3908477,7444964,Pooja,Bailey,pooja74@outlook.com,Wisconsin,Ferrellgas,1lb,5,4.49,2.25,20.2,Delivery,2024-09-20
+8247127,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-02-26
+8108481,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-09-16
+1233207,1432519,Ana,Jones,ana.j42@aol.com,Texas,NGL Energy,20lb,1,24.99,0.0,24.99,Delivery,2024-10-17
+2477088,2582524,Lamont,Wallace,wallace.l@aol.com,Oklahoma,Blue Rhino,420lb,4,849.0,0.0,3396.0,Delivery,2024-10-29
+1251897,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-10-31
+4399754,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Suburban Propane,33lb,4,49.95,0.0,199.8,Pickup,2024-07-10
+7808465,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Ferrellgas,100lb,5,149.0,0.0,745.0,Pickup,2024-04-23
+2209981,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-11-11
+6867997,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Ferrellgas,20lb,3,24.99,0.0,74.97,Pickup,2024-10-11
+2346274,7082139,Lucia,Watson,watson.l@yahoo.com,Maryland,Ferrellgas,420lb,1,849.0,127.35,721.65,Pickup,2024-03-19
+7704473,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,Ferrellgas,100lb,1,149.0,14.9,134.1,Pickup,2024-04-15
+9294125,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Suburban Propane,1lb,2,4.49,0.0,8.98,Delivery,2024-12-17
+5152891,2338687,Irina,Walker,irina_walker@comcast.net,Utah,Ferrellgas,1lb,4,4.49,0.9,17.06,Delivery,2024-12-27
+5516136,6204824,Raj,Scott,rajscott709@live.com,Colorado,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-11-22
+5105861,5928582,Harold,Perez,harold38@yahoocom,Michigan,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-12-27
+5214532,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Blue Rhino,420lb,4,849.0,0.0,3396.0,Delivery,2024-12-15
+5191903,6539837,Dwight,Wright,dwight_wright@hotmail.com,Arizona,Blue Rhino,33lb,3,49.95,17.98,131.87,Pickup,2024-01-24
+9793246,3684131,Joseph,Adams,jadams146@live.com,Florida,Blue Rhino,20lb,3,24.99,0.0,74.97,Delivery,2024-02-23
+2813693,1987737,Boris,Thompson,boris66@gmail.com,Georgia,Suburban Propane,1lb,3,4.49,0.0,13.47,Delivery,2024-08-05
+7905438,7210606,Hiroshi,Morris,hiroshimorris1322@hotmail.com,Illinois,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-08-08
+7688732,5780297,Nathan,Morgan,nathan.m61@att.net,Iowa,Ferrellgas,1lb,3,4.49,0.0,13.47,Pickup,2024-10-11
+3066510,9799030,Megan,Kim,mkim@comcast.net,Illinois,NGL Energy,420lb,3,849.0,254.7,2292.3,Pickup,2024-01-05
+9860239,1432519,Ana,Jones,ana.j42@aol.com,Texas,NGL Energy,1lb,5,4.49,0.0,22.45,Pickup,2024-11-19
+4038955,9143903,Dmitri,Burns,dburns572@outlook.com,Connecticut,Ferrellgas,1lb,4,4.49,1.8,16.16,Pickup,2024-05-16
+8872850,7183841,Nadia,Singh,nadia87@comcast.net.com,Georgia,Blue Rhino,20lb,2,24.99,7.5,42.48,Delivery,2024-05-17
+5824408,9480665,Natasha,Patel,npatel@att.net,Oklahoma,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-08-26
+4311759,7145971,Kenji,Henderson,kenji.henderson@live.com,Massachusetts,AmeriGas,420lb,5,849.0,509.4,3735.6,Delivery,2024-01-31
+3600333,6507321,Bridget,Thompson,bridget66@hotmail.com,Colorado,Ferrellgas,1lb,2,4.49,0.45,8.53,Delivery,2024-01-31
+5858602,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,AmeriGas,100lb,5,149.0,0.0,745.0,Delivery,2024-03-31
+1457985,1454696,Aaliyah,Ramos,aramos447@outlook.com,North Carolina,Ferrellgas,100lb,1,149.0,7.45,141.55,Delivery,2024-09-14
+3669548,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Suburban Propane,420lb,4,849.0,0.0,3396.0,Pickup,2024-02-14
+5721406,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,Ferrellgas,100lb,4,149.0,0.0,596.0,Pickup,2024-02-03
+4266623,9799030,Megan,Kim,mkim@comcast.net,Illinois,Blue Rhino,20lb,2,24.99,0.0,49.98,Pickup,2024-06-03
+9041683,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Suburban Propane,420lb,2,849.0,135.84,1562.16,Pickup,2024-06-22
+3217531,6440561,Barbara,Rogers,barbara35@gmail.com,Florida,Suburban Propane,1lb,2,4.49,0.0,8.98,Pickup,2024-09-18
+5409982,7223751,Aiko,Cole,acole@yahoo.com,Colorado,Suburban Propane,33lb,3,49.95,14.99,134.86,Delivery,2024-11-15
+7611593,6033115,Emma,Hughes,emma.hughes@yahoo.com,Louisiana,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-02-06
+8997703,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,NGL Energy,33lb,2,49.95,11.99,87.91,Pickup,2024-03-15
+1360413,8307727,Ahmed,Myers,ahmedmyers646@icloud.com,Georgia,Ferrellgas,20lb,1,24.99,2.0,22.99,Delivery,2024-03-30
+1651169,3198638,Ryo,Ramirez,rramirez@outlook.com,Maryland,Suburban Propane,33lb,5,49.95,0.0,249.75,Pickup,2024-03-17
+2768852,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,Blue Rhino,100lb,4,149.0,0.0,596.0,Pickup,2024-03-28
+4827527,4335942,Helga,Gonzalez,hgonzalez1281@icloud.com,Connecticut,Ferrellgas,420lb,4,849.0,0.0,3396.0,Delivery,2024-11-08
+7799441,2867825,Richard,Diaz,richard.d95@icloud.com,New York,Suburban Propane,100lb,5,149.0,0.0,745.0,Pickup,2024-04-16
+5653591,9801946,Sean,Walker,sean_walker@icloud.com,Illinois,NGL Energy,33lb,3,49.95,22.48,127.37,Pickup,2024-02-24
+8163592,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-04-06
+4176986,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-03-30
+2237003,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Ferrellgas,1lb,5,4.49,2.25,20.2,Delivery,2024-05-04
+8206488,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-10-19
+2586340,7084862,Destiny,Perry,destiny51@att.net,North Carolina,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-09-21
+5525304,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Suburban Propane,1lb,1,4.49,0.54,3.95,Pickup,2024-03-11
+3019210,9225346,Chloe,White,chloe19@yahoo.com,Florida,AmeriGas,420lb,2,849.0,203.76,1494.24,Pickup,2024-10-30
+2557253,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,NGL Energy,420lb,3,849.0,0.0,2547.0,Pickup,2024-04-25
+2568383,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,Ferrellgas,20lb,5,24.99,12.5,112.45,Pickup,2024-12-05
+5935599,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,AmeriGas,33lb,5,49.95,0.0,249.75,Pickup,2024-02-24
+8322660,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,NGL Energy,100lb,2,149.0,0.0,298.0,Pickup,2024-06-17
+3808198,3551903,Jerome,Wilson,jerome13@outlook.com,Oklahoma,AmeriGas,1lb,4,4.49,1.8,16.16,Delivery,2024-10-07
+2443011,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-09-24
+8859576,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,Blue Rhino,33lb,4,49.95,0.0,199.8,Delivery,2024-11-04
+2916579,2042273,Roberto,Stevens,rstevens@hotmail.com,Missouri,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-02-01
+7439371,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-01-31
+9854698,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-07-21
+6137252,9480665,Natasha,Patel,npatel@att.net,Oklahoma,NGL Energy,1lb,4,4.49,0.0,17.96,Pickup,2024-07-07
+3358208,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,Blue Rhino,1lb,5,4.49,0.0,22.45,Pickup,2024-09-13
+9923876,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,NGL Energy,33lb,4,49.95,0.0,199.8,Pickup,2024-07-21
+7542233,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-11-07
+3535087,3560856,Monique,Thompson,moniquethompson265@yahoo.com,New York,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-04-05
+3697606,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,NGL Energy,33lb,2,49.95,0.0,99.9,Pickup,2024-03-10
+2990747,9797727,Diego,Cooper,diego_cooper@icloud.com,North Carolina,AmeriGas,100lb,3,149.0,22.35,424.65,Pickup,2024-05-03
+3412052,8212753,Jamal,Wood,jwood1154@live.com,Michigan,AmeriGas,420lb,1,849.0,127.35,721.65,Pickup,2024-02-23
+7587730,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Blue Rhino,100lb,1,149.0,0.0,149.0,Delivery,2024-08-17
+9787280,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,1lb,2,4.49,0.0,8.98,Pickup,2024-01-27
+4581434,7724045,Jessica,Adams,jessicaadams1603@gmail.com,Pennsylvania,Ferrellgas,420lb,1,849.0,0.0,849.0,Delivery,2024-12-12
+2723751,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-07-16
+2509387,2672884,Erik,Gibson,egibson@gmail.com,Ohio,NGL Energy,33lb,2,49.95,11.99,87.91,Delivery,2024-10-04
+7312844,5418934,Andre,Evans,andreevans1857@att.net,Michigan,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-02-18
+8213549,9230828,Emma,Carter,ecarter@aol.com,Minnesota,NGL Energy,420lb,5,849.0,636.75,3608.25,Pickup,2024-10-29
+7621429,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,NGL Energy,33lb,5,49.95,0.0,249.75,Delivery,2024-02-09
+6297073,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Ferrellgas,420lb,2,849.0,0.0,1698.0,Pickup,2024-04-05
+8699159,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-08-02
+6078288,7084862,Destiny,Perry,destiny51@att.net,North Carolina,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-06-28
+1907367,8095702,Linda,Watson,linda_watson@live.com,Louisiana,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-05-08
+5806467,5408072,Isabel,Ramos,ramos.i@live.com,Ohio,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-02-27
+4016651,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-05-21
+5164420,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Ferrellgas,100lb,5,149.0,74.5,670.5,Delivery,2024-03-25
+1661445,2373555,Erik,Hayes,erik73@att.net,New York,Suburban Propane,420lb,5,849.0,509.4,3735.6,Pickup,2024-12-01
+3225862,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-04-26
+3932663,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,1lb,5,4.49,0.0,22.45,Pickup,2024-09-18
+3102926,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,Blue Rhino,20lb,1,24.99,0.0,24.99,Pickup,2024-10-06
+6561900,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Suburban Propane,20lb,4,24.99,5.0,94.96,Delivery,2024-04-04
+5132498,3551903,Jerome,Wilson,jerome13@outlook.com,Oklahoma,NGL Energy,20lb,3,24.99,0.0,74.97,Delivery,2024-01-07
+5450404,3770370,Nadia,Washington,washington.n@live.com,Maryland,Ferrellgas,33lb,2,49.95,11.99,87.91,Delivery,2024-06-29
+5164755,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Ferrellgas,100lb,3,149.0,0.0,447.0,Delivery,2024-02-08
+2625220,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,AmeriGas,100lb,5,149.0,0.0,745.0,Delivery,2024-05-20
+1971500,5408072,Isabel,Ramos,ramos.i@live.com,Ohio,Blue Rhino,1lb,4,4.49,2.69,15.27,Pickup,2024-08-20
+1061687,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-08-01
+9310722,2373555,Erik,Hayes,erik73@att.net,New York,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-07-25
+4696630,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,Ferrellgas,33lb,5,49.95,19.98,229.77,Pickup,2024-07-03
+3396950,7435505,Brandon,Woods,brandonwoods640@outlook.com,Connecticut,Blue Rhino,420lb,4,849.0,339.6,3056.4,Delivery,2024-02-20
+3861635,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Blue Rhino,100lb,5,149.0,111.75,633.25,Pickup,2024-04-28
+7049733,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,Suburban Propane,33lb,3,49.95,0.0,149.85,Delivery,2024-05-09
+3017289,8926478,Sofia,Murray,sofia.murray@sbcglobalnet,Texas,NGL Energy,100lb,3,149.0,44.7,402.3,Delivery,2024-05-06
+5314727,9214801,Diego,Hayes,dhayes781@att.net,Minnesota,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-12-30
+3613190,2446455,Susan,Cruz,scruz1151@comcast.net,Maryland,Blue Rhino,100lb,1,149.0,11.92,137.08,Delivery,2024-08-15
+6804775,8926478,Sofia,Murray,sofia.murray@sbcglobal.net,Texas,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-07-14
+3339134,5334434,Camille,Richardson,camille_richardson@live.com,Missouri,NGL Energy,1lb,3,4.49,2.02,11.45,Pickup,2024-08-21
+8312602,7296605,Priya,Edwards,priya.e90@yahoo.com,Maryland,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-02-26
+1688736,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,NGL Energy,20lb,2,24.99,0.0,49.98,Pickup,2024-11-30
+9077690,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Ferrellgas,1lb,1,4.49,0.0,4.49,Pickup,2024-10-12
+7793112,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-01-22
+6860345,9230828,Emma,Carter,ecarter@aol.com,Minnesota,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-03-09
+4190481,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-03-22
+9782376,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-09-07
+5878387,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,AmeriGas,100lb,4,149.0,0.0,596.0,Delivery,2024-02-17
+6037904,9480665,Natasha,Patel,npatel@att.net,Oklahoma,AmeriGas,20lb,5,24.99,12.5,112.45,Pickup,2024-01-17
+6751404,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Ferrellgas,100lb,5,149.0,0.0,745.0,Pickup,2024-06-04
+1673252,6919270,Fatima,Patel,fpatel@comcast.net,Florida,Blue Rhino,420lb,1,849.0,0.0,849.0,Delivery,2024-10-19
+3190059,1675419,Joseph,Bailey,joseph.bailey@icloud,Georgia,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-05-16
+7454030,5743227,Ethan,White,ethan_white@icloud.com,Louisiana,Ferrellgas,33lb,1,49.95,0.0,49.95,Pickup,2024-09-18
+3633253,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,Blue Rhino,1lb,2,4.49,0.72,8.26,Pickup,2024-06-20
+6051756,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Ferrellgas,100lb,5,149.0,0.0,745.0,Delivery,2024-03-24
+6631731,8719145,Kenji,Clark,kenjiclark573@comcast.net,Louisiana,Suburban Propane,100lb,3,149.0,0.0,447.0,Delivery,2024-09-10
+6259401,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-12-15
+9980912,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Ferrellgas,33lb,3,49.95,0.0,149.85,Pickup,2024-10-30
+6994631,3560856,Monique,Thompson,moniquethompson265@yahoo.com,New York,AmeriGas,420lb,3,849.0,127.35,2419.65,Pickup,2024-01-19
+9535161,2446455,Susan,Cruz,scruz1151@comcast.net,Maryland,AmeriGas,100lb,1,149.0,17.88,131.12,Delivery,2024-01-17
+7897700,4431161,Priya,Cooper,priya37@att.net,Colorado,Blue Rhino,1lb,3,4.49,1.35,12.12,Delivery,2024-09-09
+5513429,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Blue Rhino,100lb,3,149.0,35.76,411.24,Delivery,2024-05-03
+7542102,7891662,Patricia,Price,price.p@sbcglobal.net,Connecticut,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-01-20
+9808972,6422534,Dwight,Hill,dwighthill1035@sbcglobal.net,New Mexico,Suburban Propane,420lb,1,849.0,67.92,781.08,Delivery,2024-11-15
+5410115,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-09-13
+5409880,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Suburban Propane,420lb,3,849.0,254.7,2292.3,Delivery,2024-05-29
+3881241,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,Suburban Propane,100lb,4,149.0,0.0,596.0,Delivery,2024-02-29
+8740121,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,Blue Rhino,100lb,3,149.0,0.0,447.0,Pickup,2024-03-20
+7565971,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Blue Rhino,420lb,4,849.0,0.0,3396.0,Delivery,2024-10-13
+8303868,7322070,Dwight,Phillips,dwight46@sbcglobal.net,Massachusetts,NGL Energy,100lb,2,149.0,0.0,298.0,Pickup,2024-02-25
+8612879,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,AmeriGas,1lb,4,4.49,0.0,17.96,Delivery,2024-05-22
+5685963,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-07-29
+6748465,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Ferrellgas,100lb,3,149.0,44.7,402.3,Delivery,2024-04-05
+4437937,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,Blue Rhino,1lb,1,4.49,0.0,4.49,Pickup,2024-03-05
+9673937,1604451,Takeshi,Singh,tsingh@att.net,California,NGL Energy,33lb,4,49.95,0.0,199.8,Pickup,2024-01-09
+3503452,2921542,Mei,Cruz,mei.cruz@yahoo.com,Louisiana,Suburban Propane,100lb,2,149.0,14.9,283.1,Pickup,2024-01-08
+2834486,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-10-10
+5080755,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Blue Rhino,1lb,1,4.49,0.67,3.82,Pickup,2024-02-28
+6950477,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Ferrellgas,33lb,1,49.95,4.0,45.95,Delivery,2024-04-28
+4594921,9801946,Sean,Walker,sean_walker@icloud.com.com,Illinois,NGL Energy,20lb,4,24.99,10.0,89.96,Pickup,2024-09-11
+7160440,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,NGL Energy,33lb,4,49.95,15.98,183.82,Pickup,2024-05-20
+1159341,1432519,Ana,Jones,ana.j42@aol.com,Texas,NGL Energy,20lb,2,24.99,7.5,42.48,Delivery,2024-06-11
+6469119,7067228,Elena,Collins,elena.collins@yahoo.com,Maryland,Blue Rhino,100lb,1,149.0,17.88,131.12,Delivery,2024-05-30
+6422262,5780297,Nathan,Morgan,nathan.m61@att.net,Iowa,Ferrellgas,33lb,4,49.95,0.0,199.8,Delivery,2024-07-11
+5518413,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,NGL Energy,1lb,3,4.49,0.0,13.47,Delivery,2024-08-27
+6400776,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Suburban Propane,20lb,1,24.99,2.5,22.49,Pickup,2024-12-21
+1433544,1563316,Nathan,Thomas,nathan.thomas@icloud.com,Georgia,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-05-17
+4151566,2919549,Lucia,Murphy,lmurphy1893@comcast.net,Tennessee,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-07-23
+3422754,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-08-21
+6640128,9225346,Chloe,White,chloe19@yahoo.com,Florida,Suburban Propane,100lb,1,149.0,0.0,149.0,Pickup,2024-04-19
+7395699,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-05-10
+1157641,8608449,Amit,Kim,amit41@yahoo.com,Massachusetts,AmeriGas,420lb,3,849.0,0.0,2547.0,Pickup,2024-01-01
+5698850,9911492,Anita,Williamson,awilliamson@outlook.com,Virginia,Blue Rhino,420lb,5,849.0,0.0,4245.0,Pickup,2024-02-10
+2889450,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,Blue Rhino,100lb,2,149.0,0.0,298.0,Delivery,2024-04-17
+5820173,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Ferrellgas,20lb,1,24.99,3.75,21.24,Pickup,2024-07-08
+7085502,8149041,Kevin,Cole,kcole161@aol.com,Oklahoma,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-06-24
+1800191,8876742,Megan,Flores,megan6@aol.com,Louisiana,Blue Rhino,420lb,5,849.0,424.5,3820.5,Pickup,2024-02-29
+3644347,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Ferrellgas,420lb,1,849.0,84.9,764.1,Pickup,2024-03-03
+1983923,7818496,Marcus,Owens,owens.m@icloud.com,Illinois,Blue Rhino,1lb,4,4.49,0.0,17.96,Delivery,2024-01-09
+3736881,7223751,Aiko,Cole,acole@yahoo.com,Colorado,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-02-01
+4361332,6422534,Dwight,Hill,dwighthill1035@sbcglobal.net,New Mexico,Suburban Propane,100lb,3,149.0,22.35,424.65,Delivery,2024-02-14
+1519213,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Suburban Propane,1lb,3,4.49,0.0,13.47,Delivery,2024-07-25
+2716512,1987737,Boris,Thompson,boris66@gmail.com,Georgia,AmeriGas,420lb,3,849.0,0.0,2547.0,Delivery,2024-06-07
+6192577,2326581,Zoe,Perry,zoe.p35@yahoo.com,Colorado,NGL Energy,20lb,5,24.99,0.0,124.95,Delivery,2024-04-25
+2402036,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Ferrellgas,420lb,5,849.0,424.5,3820.5,Delivery,2024-08-08
+8560584,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Ferrellgas,420lb,3,849.0,0.0,2547.0,Pickup,2024-03-12
+1902651,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-11-29
+7960470,2446455,Susan,Cruz,scruz1151@comcast.net,Maryland,Blue Rhino,100lb,2,149.0,44.7,253.3,Pickup,2024-10-05
+3886829,7049927,Jessica,Webb,jessica.webb@att.net,California,Ferrellgas,33lb,1,49.95,4.0,45.95,Delivery,2024-08-17
+9511563,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-06-01
+8776282,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-10-28
+9348805,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-11-01
+1954349,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-11-22
+8319864,7183841,Nadia,Singh,nadia87@comcast.net,Georgia,Ferrellgas,33lb,5,49.95,0.0,249.75,Delivery,2024-10-16
+2085660,9235577,DeShawn,Jones,deshawn_jones@live.com,Nevada,Ferrellgas,20lb,3,24.99,9.0,65.97,Pickup,2024-02-24
+9395862,3551903,Jerome,Wilson,jerome13@outlook.com,Oklahoma,Blue Rhino,20lb,3,24.99,0.0,74.97,Pickup,2024-03-30
+9593404,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Ferrellgas,20lb,5,24.99,0.0,124.95,Delivery,2024-08-03
+6271120,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Blue Rhino,100lb,3,149.0,53.64,393.36,Pickup,2024-09-22
+5139478,9993490,William,Mendoza,william.m19@live.com,Michigan,Ferrellgas,20lb,2,24.99,0.0,49.98,Delivery,2024-03-16
+5608257,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Ferrellgas,33lb,4,49.95,19.98,179.82,Delivery,2024-05-22
+3413781,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,NGL Energy,100lb,2,149.0,0.0,298.0,Pickup,2024-06-26
+9304320,6664316,Fernando,Anderson,fernandoanderson168@gmail.com,Maryland,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-05-16
+5190365,1879109,Carlos,Gonzalez,carlosgonzalez1602@att.net,Oregon,NGL Energy,1lb,3,4.49,1.35,12.12,Delivery,2024-01-22
+3129961,2832517,Fatima,Reed,fatima.r30@gmail.com,California,NGL Energy,20lb,1,24.99,0.0,24.99,Pickup,2024-08-26
+6027078,6018975,Arjun,Bell,arjun_bell@sbcglobal.net,Oklahoma,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-12-19
+3749697,7322070,Dwight,Phillips,dwight46@sbcglobal.net,Massachusetts,Ferrellgas,33lb,5,49.95,0.0,249.75,Delivery,2024-08-24
+9569497,2525206,Jennifer,Young,jyoung@outlook.com,Tennessee,Ferrellgas,1lb,4,4.49,0.0,17.96,Pickup,2024-04-09
+7280761,8297090,Patrick,Moore,moore.p@yahoo.com,Connecticut,Suburban Propane,100lb,2,149.0,0.0,298.0,Delivery,2024-06-20
+8898507,2512187,Maeve,Long,mlong@comcast.net,Connecticut,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-08-28
+1016885,8719145,Kenji,Clark,kenjiclark573@comcast.net,Louisiana,Suburban Propane,20lb,4,24.99,5.0,94.96,Delivery,2024-06-18
+7410589,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Ferrellgas,100lb,3,149.0,22.35,424.65,Pickup,2024-08-03
+3569046,3351868,Arjun,Turner,aturner586@hotmail.com,Nevada,Blue Rhino,1lb,3,4.49,0.0,13.47,Pickup,2024-02-14
+7485347,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,Suburban Propane,1lb,5,4.49,3.37,19.08,Delivery,2024-03-21
+7935859,9132114,Maria,Rodriguez,maria.r21@live.com,Michigan,Suburban Propane,100lb,5,149.0,0.0,745.0,Delivery,2024-11-07
+7046955,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,AmeriGas,20lb,1,24.99,3.0,21.99,Delivery,2024-11-30
+6708243,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,NGL Energy,20lb,1,24.99,0.0,24.99,Pickup,2024-07-20
+2824919,8944327,Fatima,Cook,fcook@hotmail,Kansas,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-07-07
+4975282,2993318,Carlos,Robinson,carlos44@comcast.net,Minnesota,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-02-21
+7632241,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,AmeriGas,420lb,4,849.0,0.0,3396.0,Delivery,2024-10-15
+8456297,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,AmeriGas,420lb,2,849.0,0.0,1698.0,Delivery,2024-12-23
+7337385,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,NGL Energy,100lb,3,149.0,0.0,447.0,Delivery,2024-03-04
+1756962,8194570,Connor,Tran,connor.tran@live.com,New York,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-02-07
+5887726,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,AmeriGas,100lb,4,149.0,59.6,536.4,Pickup,2024-12-07
+9980691,6541407,Antoine,Walker,antoine.walker@outlook.com,Tennessee,NGL Energy,33lb,3,49.95,0.0,149.85,Delivery,2024-07-10
+6660342,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,Blue Rhino,420lb,4,849.0,339.6,3056.4,Delivery,2024-08-25
+6820377,9993490,William,Mendoza,william.m19@live.com,Michigan,Ferrellgas,20lb,3,24.99,0.0,74.97,Delivery,2024-11-05
+9281506,8318550,William,Bryant,william55@yahoo.com,Louisiana,NGL Energy,100lb,1,149.0,0.0,149.0,Pickup,2024-10-15
+9229339,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-05-01
+9853571,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,Suburban Propane,1lb,4,4.49,0.0,17.96,Pickup,2024-10-14
+5253262,4536777,Ricardo,Kim,ricardo.kim@live.com,Minnesota,Ferrellgas,33lb,3,49.95,0.0,149.85,Pickup,2024-05-27
+8049302,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,AmeriGas,33lb,3,49.95,0.0,149.85,Pickup,2024-11-05
+4310554,7067228,Elena,Collins,elena.collins@yahoo.com,Maryland,Suburban Propane,420lb,4,849.0,0.0,3396.0,Pickup,2024-02-17
+6220992,6357240,Peter,Jordan,peter72@outlook.com,New York,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-03-04
+7278644,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,NGL Energy,100lb,2,149.0,0.0,298.0,Delivery,2024-08-06
+7721990,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-07-11
+8996058,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-07-11
+3190350,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Suburban Propane,33lb,5,49.95,0.0,249.75,Pickup,2024-04-14
+3790745,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-03-03
+1598917,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Blue Rhino,1lb,5,4.49,2.69,19.76,Pickup,2024-01-09
+3906397,2338687,Irina,Walker,irina_walker@comcast.net,Utah,NGL Energy,20lb,4,24.99,8.0,91.96,Delivery,2024-02-10
+9292896,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-09-11
+3797658,3762487,Mei,Myers,mei67@icloud.com,Iowa,Ferrellgas,20lb,1,24.99,0.0,24.99,Pickup,2024-06-13
+1603663,1899411,Diego,Hill,diego_hill@live.com,New York,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-05-08
+8209482,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,Suburban Propane,420lb,2,849.0,84.9,1613.1,Delivery,2024-08-29
+4371081,7444964,Pooja,Bailey,pooja74@outlook.com,Wisconsin,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-03-02
+2615677,1604451,Takeshi,Singh,tsingh@att.net,California,Suburban Propane,33lb,3,49.95,0.0,149.85,Delivery,2024-05-14
+7456854,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Ferrellgas,420lb,2,849.0,0.0,1698.0,Pickup,2024-02-16
+3448055,7333337,Ryo,Lee,rlee@att.net,New York,Blue Rhino,100lb,3,149.0,35.76,411.24,Delivery,2024-02-25
+7425930,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Blue Rhino,100lb,2,149.0,0.0,298.0,Pickup,2024-10-07
+5378351,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,NGL Energy,1lb,3,4.49,0.0,13.47,Delivery,2024-04-08
+1805615,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Blue Rhino,20lb,1,24.99,1.25,23.74,Pickup,2024-05-18
+7668769,2373555,Erik,Hayes,erik73@att.net,New York,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-04-23
+1322326,7082139,Lucia,Watson,watson.l@yahoo.com,Maryland,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-05-03
+4638539,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-11-29
+3446428,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,Suburban Propane,1lb,2,4.49,0.9,8.08,Pickup,2024-03-09
+3075794,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-08-23
+7688580,6086650,Michael,Nguyen,michaelnguyen1604@icloud.com,Oregon,NGL Energy,20lb,2,24.99,0.0,49.98,Delivery,2024-01-18
+9600949,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Suburban Propane,20lb,3,24.99,7.5,67.47,Delivery,2024-10-03
+9705716,7084862,Destiny,Perry,destiny51@att.net,North Carolina,NGL Energy,420lb,1,849.0,0.0,849.0,Pickup,2024-12-15
+8455510,6989032,Jennifer,Foster,jenniferfoster1712@hotmail.com,Tennessee,Blue Rhino,100lb,4,149.0,47.68,548.32,Delivery,2024-02-22
+6716988,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Blue Rhino,33lb,1,49.95,7.49,42.46,Pickup,2024-05-16
+4375360,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-09-23
+2011437,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-06-02
+7557612,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-11-30
+5117989,9132114,Maria,Rodriguez,maria.r21@live.com,Michigan,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-08-02
+7052003,2373555,Erik,Hayes,erik73@att.net,New York,Ferrellgas,420lb,3,849.0,0.0,2547.0,Pickup,2024-08-30
+6751103,8307727,Ahmed,Myers,ahmedmyers646@icloud.com,Georgia,Ferrellgas,100lb,5,149.0,0.0,745.0,Delivery,2024-07-09
+1333139,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-12-17
+9604096,2696860,Tamara,Burns,tamara.burns@att.net,Iowa,AmeriGas,33lb,1,49.95,0.0,49.95,Delivery,2024-04-27
+1973306,2582524,Lamont,Wallace,wallace.l@aol.com,Oklahoma,AmeriGas,100lb,3,149.0,35.76,411.24,Pickup,2024-08-05
+3438177,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,AmeriGas,1lb,2,4.49,0.72,8.26,Delivery,2024-07-25
+4333680,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-11-12
+7474950,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Suburban Propane,100lb,2,149.0,0.0,298.0,Delivery,2024-12-31
+5550953,7455324,Hana,Stevens,hana_stevens@att.net,Massachusetts,AmeriGas,420lb,3,849.0,127.35,2419.65,Pickup,2024-06-02
+3883035,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-02-26
+5352450,9143903,Dmitri,Burns,dburns572@outlook.com,Connecticut,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-01-19
+6079496,6422534,Dwight,Hill,dwighthill1035@sbcglobal,New Mexico,AmeriGas,420lb,4,849.0,339.6,3056.4,Pickup,2024-08-04
+2947249,2921542,Mei,Cruz,mei.cruz@yahoo.com,Louisiana,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-09-12
+1903041,3592974,Mohammed,Mitchell,mitchell.m@outlook.com,Wisconsin,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-07-01
+7385526,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,AmeriGas,20lb,3,24.99,0.0,74.97,Pickup,2024-08-11
+3807840,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-12-25
+3489124,8297090,Patrick,Moore,moore.p@yahoo.com,Connecticut,NGL Energy,1lb,3,4.49,0.0,13.47,Delivery,2024-01-20
+9385800,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Suburban Propane,20lb,5,24.99,6.25,118.7,Delivery,2024-11-12
+3989029,7262974,Omar,Garcia,omargarcia781@aol.com,Wisconsin,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-10-04
+2228016,2512187,Maeve,Long,mlong@comcast.net,Connecticut,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-03-20
+4068080,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,NGL Energy,33lb,4,49.95,29.97,169.83,Pickup,2024-07-11
+2276841,9480665,Natasha,Patel,npatel@att.net,Oklahoma,Ferrellgas,420lb,5,849.0,0.0,4245.0,Pickup,2024-05-07
+6134915,2237331,Carlos,Price,cprice1029@yahoo.com,Missouri,Suburban Propane,33lb,3,49.95,0.0,149.85,Pickup,2024-01-14
+5038654,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,NGL Energy,420lb,2,849.0,0.0,1698.0,Delivery,2024-08-03
+2968815,3386328,Sarah,Martin,sarah_martin@outlook.com,Utah,AmeriGas,420lb,4,849.0,0.0,3396.0,Delivery,2024-08-18
+6939158,1432519,Ana,Jones,ana.j42@aol.com,Texas,Suburban Propane,420lb,3,849.0,305.64,2241.36,Pickup,2024-07-26
+2420343,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,AmeriGas,33lb,1,49.95,0.0,49.95,Pickup,2024-09-14
+6604510,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Suburban Propane,20lb,1,24.99,0.0,24.99,Delivery,2024-06-11
+1282620,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,Suburban Propane,20lb,2,24.99,7.5,42.48,Pickup,2024-02-21
+4071524,7435505,Brandon,Woods,brandonwoods640@outlook.com,Connecticut,Suburban Propane,1lb,1,4.49,0.0,4.49,Pickup,2024-07-29
+3732123,7191135,Monique,Snyder,monique96@att.net,Minnesota,NGL Energy,1lb,2,4.49,0.0,8.98,Pickup,2024-05-05
+8278315,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Blue Rhino,100lb,2,149.0,23.84,274.16,Delivery,2024-06-06
+3426109,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,Blue Rhino,1lb,4,4.49,0.0,17.96,Delivery,2024-09-07
+4461265,2319479,Priya,Cruz,priya.c22@aol.com,Florida,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-06-14
+2164158,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,Blue Rhino,20lb,5,24.99,0.0,124.95,Pickup,2024-02-24
+9513171,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,AmeriGas,100lb,4,149.0,0.0,596.0,Pickup,2024-09-01
+3936396,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,AmeriGas,420lb,1,849.0,0.0,849.0,Delivery,2024-10-13
+1334774,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,NGL Energy,33lb,4,49.95,0.0,199.8,Pickup,2024-11-13
+2966890,8095702,Linda,Watson,linda_watson@live.com,Louisiana,Blue Rhino,100lb,1,149.0,0.0,149.0,Delivery,2024-03-18
+8762657,3949245,Charles,Patterson,cpatterson@sbcglobal.net,Oklahoma,NGL Energy,420lb,2,849.0,169.8,1528.2,Pickup,2024-08-04
+3239535,7333337,Ryo,Lee,rlee@att.net,New York,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-07-18
+9398403,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Ferrellgas,33lb,4,49.95,0.0,199.8,Delivery,2024-09-01
+2679778,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Ferrellgas,1lb,1,4.49,0.0,4.49,Delivery,2024-08-04
+9049422,3030966,Fernando,Anderson,anderson.f@aol.com,Florida,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-06-28
+2585184,3698193,Clint,Graham,clint_graham@sbcglobal.net,Utah,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-04-25
+9047740,9240971,Natasha,Wright,natashawright1000@outlook.com,Iowa,NGL Energy,100lb,1,149.0,0.0,149.0,Delivery,2024-02-16
+4105895,9801946,Sean,Walker,sean_walker@icloud.com,Illinois,Suburban Propane,1lb,2,4.49,0.0,8.98,Delivery,2024-08-01
+7723294,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,AmeriGas,20lb,3,24.99,0.0,74.97,Pickup,2024-06-12
+9191626,1485753,Ryan,Cox,ryan1@hotmail.com,Illinois,AmeriGas,33lb,3,49.95,0.0,149.85,Pickup,2024-02-06
+3347640,5675638,Aisha,Allen,aallen@gmail.com,Colorado,Suburban Propane,33lb,1,49.95,0.0,49.95,Pickup,2024-06-29
+8087653,3937508,Daniel,Marshall,dmarshall@outlook.com,Maryland,AmeriGas,33lb,4,49.95,9.99,189.81,Delivery,2024-01-26
+4730635,9143903,Dmitri,Burns,dburns572@outlook.com,Connecticut,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-03-11
+6744686,8980915,Darius,Stewart,darius83@hotmail.com,California,NGL Energy,420lb,5,849.0,0.0,4245.0,Delivery,2024-02-01
+2397383,3698193,Clint,Graham,clint_graham@sbcglobal.net,Utah,Suburban Propane,33lb,3,49.95,0.0,149.85,Delivery,2024-10-03
+9582968,3351868,Arjun,Turner,aturner586@hotmail.com,Nevada,NGL Energy,1lb,3,4.49,0.67,12.8,Delivery,2024-07-24
+3994493,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,33lb,3,49.95,22.48,127.37,Delivery,2024-02-29
+3150688,5816582,Vikram,Turner,turner.v@outlook.com,Nevada,NGL Energy,20lb,5,24.99,10.0,114.95,Pickup,2024-01-17
+6479614,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,NGL Energy,1lb,3,4.49,0.0,13.47,Pickup,2024-02-22
+8315833,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Suburban Propane,1lb,5,4.49,2.69,19.76,Delivery,2024-10-11
+4085559,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,100lb,2,149.0,0.0,298.0,Delivery,2024-11-18
+9996681,7372653,Rosa,Reed,rosa98@sbcglobal.net,Utah,Blue Rhino,1lb,2,4.49,1.08,7.9,Pickup,2024-04-01
+9906450,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,NGL Energy,420lb,3,849.0,0.0,2547.0,Pickup,2024-02-15
+8479960,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,Blue Rhino,20lb,3,24.99,0.0,74.97,Delivery,2024-03-15
+8351152,7818496,Marcus,Owens,owens.m@icloud.com,Illinois,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-03-15
+5666187,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-04-19
+8593275,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,AmeriGas,420lb,5,849.0,0.0,4245.0,Delivery,2024-10-02
+8686601,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,AmeriGas,420lb,5,849.0,0.0,4245.0,Delivery,2024-10-07
+9937547,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,NGL Energy,100lb,5,149.0,0.0,745.0,Pickup,2024-11-03
+7426442,7631419,Barbara,Johnson,barbara_johnson@icloud.com,Ohio,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-01-07
+8376757,1472908,Megan,Walker,mwalker@aol.com,Michigan,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-02-02
+5230482,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,NGL Energy,1lb,1,4.49,0.22,4.27,Delivery,2024-06-30
+3862767,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Blue Rhino,33lb,2,49.95,0.0,99.9,Pickup,2024-06-16
+5576682,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-02-22
+4268180,7145971,Kenji,Henderson,kenji.henderson@live.com,Massachusetts,NGL Energy,420lb,4,849.0,0.0,3396.0,Delivery,2024-05-20
+4499464,1440972,Kenji,Snyder,kenji71@live.com,Ohio,Suburban Propane,1lb,4,4.49,0.0,17.96,Pickup,2024-02-24
+8125354,9235577,DeShawn,Jones,deshawn_jones@live.com,Nevada,Suburban Propane,33lb,5,49.95,0.0,249.75,Delivery,2024-04-16
+9987534,7171347,Ricardo,West,ricardo_west@sbcglobal.net,Missouri,Suburban Propane,20lb,3,24.99,0.0,74.97,Delivery,2024-07-25
+2454383,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-02-20
+1530633,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-04-11
+9381494,6682698,Keisha,Stevens,kstevens@yahoo.com,Oklahoma,AmeriGas,420lb,5,849.0,212.25,4032.75,Delivery,2024-06-15
+7975983,2373555,Erik,Hayes,erik73@att.net,New York,AmeriGas,100lb,3,149.0,35.76,411.24,Pickup,2024-06-19
+2682396,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-05-13
+7617330,2436347,Fatima,Hamilton,fatima.h61@sbcglobal.net,New Mexico,Blue Rhino,100lb,3,149.0,0.0,447.0,Pickup,2024-07-13
+7005668,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Suburban Propane,20lb,1,24.99,2.5,22.49,Pickup,2024-08-18
+8734211,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-06-26
+4375454,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-07-12
+7400318,3673322,Shanice,Mendoza,smendoza1875@sbcglobalnet,Oregon,Blue Rhino,1lb,3,4.49,1.08,12.39,Delivery,2024-02-04
+9122764,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-03-16
+7001942,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,Ferrellgas,420lb,5,849.0,0.0,4245.0,Pickup,2024-11-09
+9829762,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Ferrellgas,1lb,3,4.49,0.0,13.47,Delivery,2024-06-06
+2500416,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,AmeriGas,100lb,1,149.0,14.9,134.1,Delivery,2024-04-25
+1627384,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,Blue Rhino,1lb,4,4.49,0.0,17.96,Delivery,2024-07-10
+3561552,5408072,Isabel,Ramos,ramos.i@live.com,Ohio,Ferrellgas,1lb,3,4.49,1.08,12.39,Pickup,2024-04-23
+7805792,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Suburban Propane,20lb,4,24.99,0.0,99.96,Delivery,2024-06-29
+4654790,8344365,Benjamin,Webb,bwebb@att.net,Kansas,Suburban Propane,1lb,5,4.49,0.0,22.45,Delivery,2024-05-16
+8113821,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Blue Rhino,420lb,2,849.0,0.0,1698.0,Delivery,2024-10-01
+6687145,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,Blue Rhino,420lb,5,849.0,0.0,4245.0,Pickup,2024-08-05
+6178697,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-12-28
+6416675,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Suburban Propane,20lb,2,24.99,5.0,44.98,Pickup,2024-08-15
+3363089,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,Suburban Propane,33lb,5,49.95,12.49,237.26,Delivery,2024-10-28
+9776491,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Suburban Propane,420lb,2,849.0,0.0,1698.0,Pickup,2024-03-29
+6110305,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,NGL Energy,420lb,2,849.0,0.0,1698.0,Delivery,2024-02-09
+9924543,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-03-03
+5528498,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-05-25
+2062602,7818496,Marcus,Owens,owens.m@icloud.com,Illinois,Ferrellgas,33lb,1,49.95,0.0,49.95,Pickup,2024-07-13
+8493255,3684131,Joseph,Adams,jadams146@live.com,Florida,NGL Energy,420lb,2,849.0,135.84,1562.16,Pickup,2024-06-08
+6595492,1432519,Ana,Jones,ana.j42@aol.com,Texas,Ferrellgas,20lb,2,24.99,2.5,47.48,Delivery,2024-01-24
+7150383,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-10-13
+6666248,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,Suburban Propane,1lb,5,4.49,3.37,19.08,Pickup,2024-04-21
+7038413,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Ferrellgas,1lb,2,4.49,1.08,7.9,Delivery,2024-01-29
+8813403,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,Suburban Propane,20lb,3,24.99,11.25,63.72,Delivery,2024-09-07
+9066612,5928582,Harold,Perez,harold38@yahoo.com,Michigan,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-05-28
+1360516,3846949,Aaliyah,Wood,aaliyah97@att.net,Georgia,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-02-05
+7858110,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,AmeriGas,33lb,5,49.95,37.46,212.29,Delivery,2024-08-17
+4112344,2832517,Fatima,Reed,fatima.r30@gmail.com,California,NGL Energy,100lb,1,149.0,0.0,149.0,Pickup,2024-05-03
+3756401,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,AmeriGas,1lb,5,4.49,2.25,20.2,Pickup,2024-04-27
+8571416,2950183,Ivan,Singh,ivansingh1915@sbcglobal.net,Nevada,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-08-07
+2116463,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Blue Rhino,33lb,4,49.95,0.0,199.8,Delivery,2024-05-24
+5215259,6664316,Fernando,Anderson,fernandoanderson168@gmail.com,Maryland,Ferrellgas,1lb,1,4.49,0.54,3.95,Pickup,2024-02-12
+1275590,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,NGL Energy,100lb,1,149.0,0.0,149.0,Pickup,2024-03-25
+3262755,5960271,Lucia,King,king.l@icloud.com,Massachusetts,Suburban Propane,420lb,2,849.0,0.0,1698.0,Pickup,2024-10-18
+9790949,8876742,Megan,Flores,megan6@aol.com,Louisiana,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-08-28
+6727022,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,Ferrellgas,33lb,5,49.95,0.0,249.75,Pickup,2024-07-09
+5375632,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-03-11
+7038275,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,AmeriGas,1lb,2,4.49,0.72,8.26,Pickup,2024-05-21
+2726915,4470105,Pooja,Coleman,pooja .coleman@live.com,Louisiana,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-11-12
+6167027,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Suburban Propane,1lb,1,4.49,0.0,4.49,Delivery,2024-04-04
+3917871,9037616,Dmitri,Stewart,dmitri_stewart@att.net,Indiana,Suburban Propane,33lb,2,49.95,14.98,84.92,Delivery,2024-02-01
+7459520,7251976,Ana,Simpson,ana16gmail.com,Tennessee,Ferrellgas,33lb,4,49.95,0.0,199.8,Delivery,2024-04-23
+2326525,2696860,Tamara,Burns,tamara.burns@att.net,Iowa,Blue Rhino,1lb,3,4.49,1.35,12.12,Delivery,2024-01-23
+8919821,9225346,Chloe,White,chloe19@yahoo.com,Florida,Ferrellgas,420lb,1,849.0,0.0,849.0,Delivery,2024-06-27
+6950561,2446455,Susan,Cruz,scruz1151@@comcast.net,Maryland,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-02-28
+8855414,8312936,Ebony,Lewis,ebony43@sbcglobal.net,Arizona,Suburban Propane,1lb,4,4.49,0.0,17.96,Pickup,2024-12-16
+4132173,7640518,Patrick,Brown,patrick.brown@live.com,Wisconsin,Blue Rhino,1lb,4,4.49,1.44,16.52,Delivery,2024-02-20
+6909569,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-05-26
+9007468,3684131,Joseph,Adams,jadams146@live.com,Florida,Suburban Propane,1lb,5,4.49,0.0,22.45,Pickup,2024-11-27
+1978112,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,NGL Energy,33lb,5,49.95,12.49,237.26,Delivery,2024-10-18
+9184645,6507321,Bridget,Thompson,bridget66@hotmail.com,Colorado,Blue Rhino,33lb,5,49.95,0.0,249.75,Delivery,2024-08-03
+6692259,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,AmeriGas,33lb,1,49.95,0.0,49.95,Pickup,2024-03-05
+6290464,3920762,Kenji,Woods,kenjiwoods486@icloud.com,Georgia,Blue Rhino,20lb,2,24.99,0.0,49.98,Delivery,2024-08-15
+1378915,3094235,Ryo,Lee,ryo_lee@att.net,Virginia,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-01-08
+7006319,6919270,Fatima,Patel,fpatel@comcast.net,Florida,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-05-29
+4521118,6018975,Arjun,Bell,arjun_bell@sbcglobal.net,Oklahoma,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-05-14
+1635969,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Blue Rhino,420lb,4,849.0,0.0,3396.0,Delivery,2024-03-30
+6760038,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,NGL Energy,420lb,3,849.0,382.05,2164.95,Pickup,2024-04-06
+7723471,6919270,Fatima,Patel,fpatel@comcast.net,Florida,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-12-16
+4307179,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,AmeriGas,100lb,4,149.0,59.6,536.4,Delivery,2024-01-13
+6659210,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Blue Rhino,1lb,4,4.49,0.0,17.96,Delivery,2024-11-22
+7159129,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,Suburban Propane,1lb,5,4.49,0.0,22.45,Pickup,2024-04-01
+7306018,7923579,Sanjay,Simpson,ssimpson@att.net,North Carolina,Ferrellgas,420lb,5,849.0,0.0,4245.0,Delivery,2024-02-24
+1804641,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-12-19
+7556539,8212753,Jamal,Wood,jwood1154@live.com,Michigan,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-04-09
+4996614,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,Ferrellgas,1lb,2,4.49,0.0,8.98,Delivery,2024-08-04
+7026992,7074006,Ingrid,Hall,ingrid.h6@sbcglobal.net,Wisconsin,Blue Rhino,1lb,2,4.49,0.72,8.26,Delivery,2024-03-29
+4454281,9935249,Boris,Wells,boris51@att.net,Oklahoma,AmeriGas,1lb,4,4.49,0.9,17.06,Pickup,2024-02-17
+2879293,3938247,Kavita,Simpson,kavita.simpson@sbcglobal.net,Massachusetts,NGL Energy,20lb,5,24.99,0.0,124.95,Pickup,2024-07-27
+3738993,9302946,Antoine,Watson,antoine .watson@att.net,Tennessee,Suburban Propane,1lb,5,4.49,0.0,22.45,Delivery,2024-08-20
+5435820,4551070,Ethan,Long,long.e@aol.com,Utah,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-04-11
+1142206,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,AmeriGas,1lb,4,4.49,0.9,17.06,Delivery,2024-01-01
+3201130,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-12-20
+7951039,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Suburban Propane,33lb,5,49.95,0.0,249.75,Pickup,2024-09-14
+5078015,5928582,Harold,Perez,harold38@yahoo.com,Michigan,Suburban Propane,20lb,3,24.99,3.75,71.22,Delivery,2024-11-05
+7042962,8795419,Sigrid,Crawford,sigrid57@live.com,Virginia,AmeriGas,1lb,3,4.49,0.0,13.47,Delivery,2024-10-05
+5889399,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-07-10
+1502947,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,AmeriGas,33lb,4,49.95,19.98,179.82,Pickup,2024-02-11
+3453557,7210606,Hiroshi,Morris,hiroshimorris1322@hotmail.com,Illinois,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-10-03
+4942645,7550190,Nadia,Gibson,gibson.n@hotmail.com,Connecticut,AmeriGas,100lb,4,149.0,0.0,596.0,Delivery,2024-04-03
+6777340,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Suburban Propane,20lb,1,24.99,0.0,24.99,Delivery,2024-03-19
+8450817,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-04-28
+5499844,8980915,Darius,Stewart,darius83@hotmail.com,California,Ferrellgas,33lb,5,49.95,0.0,249.75,Delivery,2024-05-27
+3014549,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,Ferrellgas,20lb,3,24.99,0.0,74.97,Pickup,2024-04-17
+4858847,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-01-02
+3046175,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Blue Rhino,100lb,4,149.0,29.8,566.2,Pickup,2024-08-25
+7464817,7183841,Nadia,Singh,nadia87@comcast.net,Georgia,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-12-14
+4699507,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-09-25
+9770751,5896624,Felix,Cox,fcox1042@comcast.net,Nevada,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-09-02
+1331289,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-11-19
+9703982,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,NGL Energy,420lb,5,849.0,424.5,3820.5,Delivery,2024-06-13
+4076474,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Suburban Propane,100lb,1,149.0,17.88,131.12,Delivery,2024-05-20
+7655572,4335942,Helga,Gonzalez,hgonzalez1281@icloud.com,Connecticut,Ferrellgas,1lb,3,4.49,0.0,13.47,Delivery,2024-05-02
+9246334,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Suburban Propane,420lb,3,849.0,0.0,2547.0,Delivery,2024-07-25
+9328158,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-04-20
+1053156,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Blue Rhino,33lb,4,49.95,0.0,199.8,Delivery,2024-04-23
+6653942,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Suburban Propane,33lb,2,49.95,0.0,99.9,Delivery,2024-01-23
+5278178,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,NGL Energy,100lb,1,149.0,0.0,149.0,Delivery,2024-11-23
+7337047,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Blue Rhino,100lb,4,149.0,0.0,596.0,Delivery,2024-12-10
+7254897,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,AmeriGas,33lb,4,49.95,0.0,199.8,Delivery,2024-03-13
+4426466,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,NGL Energy,33lb,1,49.95,2.5,47.45,Pickup,2024-03-14
+3739867,7191135,Monique,Snyder,monique96@att.net,Minnesota,AmeriGas,33lb,3,49.95,0.0,149.85,Delivery,2024-07-08
+1473227,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Ferrellgas,420lb,5,849.0,339.6,3905.4,Delivery,2024-02-15
+7967320,8608449,Amit,Kim,amit41@yahoo.com,Massachusetts,Blue Rhino,1lb,2,4.49,1.08,7.9,Delivery,2024-07-23
+3616291,9797727,Diego,Cooper,diego_cooper@icloud.com,North Carolina,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-07-27
+3503436,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,Suburban Propane,420lb,3,849.0,0.0,2547.0,Delivery,2024-10-25
+7758786,7923579,Sanjay,Simpson,ssimpson@att.net,North Carolina,NGL Energy,420lb,5,849.0,0.0,4245.0,Delivery,2024-01-11
+8733526,8318550,William,Bryant,william55@yahoo.com,Louisiana,AmeriGas,1lb,2,4.49,1.08,7.9,Pickup,2024-01-10
+8059261,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,NGL Energy,33lb,5,49.95,0.0,249.75,Pickup,2024-12-20
+7399792,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Blue Rhino,100lb,3,149.0,35.76,411.24,Pickup,2024-10-03
+7547256,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,Suburban Propane,420lb,3,849.0,127.35,2419.65,Pickup,2024-04-30
+9909769,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-07-29
+8983040,9235577,DeShawn,Jones,deshawn_jones@live.com,Nevada,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-06-11
+6981414,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-11-21
+7585029,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Blue Rhino,420lb,3,849.0,382.05,2164.95,Pickup,2024-08-22
+5780177,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-06-16
+1157090,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-09-16
+8788747,2512187,Maeve,Long,mlong@comcast.net,Connecticut,Suburban Propane,100lb,1,149.0,11.92,137.08,Delivery,2024-06-28
+6491198,7455324,Hana,Stevens,hana_stevens@@att.net,Massachusetts,AmeriGas,420lb,4,849.0,271.68,3124.32,Delivery,2024-11-14
+8943827,7296605,Priya,Edwards,priya.e90@yahoo.com,Maryland,Suburban Propane,33lb,1,49.95,0.0,49.95,Pickup,2024-10-30
+6816746,5408072,Isabel,Ramos,ramos.i@live.com,Ohio,NGL Energy,420lb,3,849.0,203.76,2343.24,Delivery,2024-12-08
+3668591,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,AmeriGas,33lb,2,49.95,14.98,84.92,Pickup,2024-07-24
+9338891,7333337,Ryo,Lee,rlee@att.net,New York,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-10-12
+3805973,7631419,Barbara,Johnson,barbara_johnson@icloud.com,Ohio,AmeriGas,420lb,3,849.0,0.0,2547.0,Delivery,2024-04-11
+8357303,6312692,Marcus,Burns,marcusburns555@gmail.com,Massachusetts,AmeriGas,100lb,5,149.0,37.25,707.75,Pickup,2024-02-08
+6703062,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,AmeriGas,33lb,1,49.95,0.0,49.95,Delivery,2024-09-10
+8700011,5801541,Boris,Russell,boris.r33@icloud.com,Massachusetts,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-05-07
+1009512,5479421,Clint,James,clint.james@live.com,Washington,AmeriGas,20lb,1,24.99,3.0,21.99,Pickup,2024-11-05
+4694972,5479421,Clint,James,clint.james@live.com,Washington,AmeriGas,1lb,3,4.49,1.08,12.39,Pickup,2024-05-07
+3226537,3030966,Fernando,Anderson,anderson.f@aol.com,Florida,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-05-23
+3151617,2672884,Erik,Gibson,egibson@gmail.com,Ohio,AmeriGas,20lb,3,24.99,0.0,74.97,Pickup,2024-12-06
+5826180,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-09-21
+7985242,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-06-24
+1034351,2672884,Erik,Gibson,egibson@gmail.com,Ohio,NGL Energy,100lb,1,149.0,0.0,149.0,Pickup,2024-05-24
+7845563,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-09-09
+2582342,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,NGL Energy,1lb,1,4.49,0.0,4.49,Pickup,2024-11-30
+7399181,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,NGL Energy,20lb,1,24.99,2.0,22.99,Pickup,2024-01-29
+9178970,9209880,Vikram,Richardson,vikram57@gmail.com,Nevada,Suburban Propane,33lb,2,49.95,0.0,99.9,Delivery,2024-07-09
+4471088,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,AmeriGas,420lb,3,849.0,0.0,2547.0,Pickup,2024-09-22
+7064405,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,NGL Energy,33lb,5,49.95,29.97,219.78,Pickup,2024-02-24
+8534223,6702160,Tamara,Ward,tamara_ward@gmail.com,Utah,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-04-25
+6402667,9996207,Clint,Rodriguez,clint_rodriguezyahoo.com,North Carolina,AmeriGas,1lb,5,4.49,0.0,22.45,Pickup,2024-06-11
+3523050,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Suburban Propane,420lb,4,849.0,339.6,3056.4,Pickup,2024-06-19
+8729158,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,AmeriGas,20lb,3,24.99,0.0,74.97,Delivery,2024-11-01
+2885284,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-04-17
+5629792,8315831,James,Olson,james.o56@att.net,Florida,NGL Energy,420lb,5,849.0,0.0,4245.0,Pickup,2024-02-22
+7720647,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-05-24
+7826244,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-03-04
+9797899,7640518,Patrick,Brown,patrick.brown@live.com,Wisconsin,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-04-23
+3062198,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Ferrellgas,1lb,1,4.49,0.0,4.49,Delivery,2024-10-30
+3984802,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Suburban Propane,420lb,1,849.0,42.45,806.55,Delivery,2024-03-09
+2444148,8519121,William,Lewis,william.l89@hotmail.com,Georgia,Blue Rhino,20lb,3,24.99,0.0,74.97,Delivery,2024-04-04
+5018645,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,Ferrellgas,20lb,5,24.99,10.0,114.95,Pickup,2024-06-10
+7422301,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Suburban Propane,33lb,1,49.95,5.0,44.95,Pickup,2024-04-27
+8087921,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,NGL Energy,420lb,4,849.0,407.52,2988.48,Pickup,2024-02-12
+8077958,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-10-16
+8331010,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Blue Rhino,20lb,3,24.99,3.75,71.22,Pickup,2024-06-26
+6681113,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Blue Rhino,33lb,3,49.95,22.48,127.37,Pickup,2024-08-01
+8195804,3386328,Sarah,Martin,sarah_martin@outlook.com,Utah,NGL Energy,33lb,2,49.95,9.99,89.91,Pickup,2024-05-19
+3892693,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-08-03
+1489172,7372653,Rosa,Reed,rosa98@sbcglobal.net,Utah,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-08-28
+5056398,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,Suburban Propane,420lb,2,849.0,203.76,1494.24,Pickup,2024-08-10
+2673190,2919549,Lucia,Murphy,lmurphy1893@comcast.net,Tennessee,Suburban Propane,100lb,1,149.0,7.45,141.55,Pickup,2024-12-08
+9923120,9214801,Diego,Hayes,dhayes781@att.net,Minnesota,Blue Rhino,1lb,3,4.49,0.0,13.47,Pickup,2024-04-18
+7560331,2319479,Priya,Cruz,priya.c22@aol.com,Florida,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-10-11
+8926422,1454696,Aaliyah,Ramos,aramos447@outlook.com,North Carolina,AmeriGas,420lb,5,849.0,0.0,4245.0,Pickup,2024-01-16
+5751739,7183841,Nadia,Singh,nadia87@comcast.net,Georgia,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-03-17
+4617959,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-11-18
+6352364,2739191,Antonio,Sanders,antonio.sanders@outlook.com,Arizona,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-12-21
+3718341,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,NGL Energy,20lb,3,24.99,0.0,74.97,Pickup,2024-12-29
+4364763,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-04-09
+8474978,8399399,Dwight,Gonzalez,gonzalez.d@outlook.com,Tennessee,NGL Energy,420lb,4,849.0,169.8,3226.2,Pickup,2024-02-28
+7998405,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,Suburban Propane,1lb,4,4.49,0.0,17.96,Delivery,2024-05-07
+1273509,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,NGL Energy,20lb,3,24.99,6.0,68.97,Pickup,2024-12-09
+5372416,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,NGL Energy,420lb,4,849.0,0.0,3396.0,Pickup,2024-07-30
+2695038,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Ferrellgas,33lb,3,49.95,11.99,137.86,Delivery,2024-07-03
+3804075,7191135,Monique,Snyder,monique96@att.net,Minnesota,NGL Energy,33lb,3,49.95,0.0,149.85,Delivery,2024-10-10
+7027124,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,AmeriGas,33lb,1,49.95,7.49,42.46,Delivery,2024-04-09
+5863073,1563316,Nathan,Thomas,nathan.thomas@icloud.com,Georgia,Ferrellgas,33lb,2,49.95,7.99,91.91,Delivery,2024-07-23
+5345236,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,AmeriGas,1lb,1,4.49,0.45,4.04,Delivery,2024-07-23
+8783398,5476583,Camille,Young,young.c@hotmail.com,Texas,Ferrellgas,420lb,4,849.0,0.0,3396.0,Pickup,2024-01-16
+7603776,5437118,Sakura,Reynolds,sakura.reynolds@aol.com,Louisiana,Blue Rhino,1lb,2,4.49,0.0,8.98,Delivery,2024-01-20
+7259939,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Blue Rhino,420lb,5,849.0,509.4,3735.6,Delivery,2024-02-17
+4519295,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Blue Rhino,20lb,1,24.99,0.0,24.99,Pickup,2024-02-29
+2386477,2739191,Antonio,Sanders,antonio.sanders@outlook.com,Arizona,Ferrellgas,1lb,4,4.49,0.0,17.96,Pickup,2024-10-13
+9901345,3762487,Mei,Myers,mei67@icloud.com,Iowa,NGL Energy,1lb,5,4.49,0.0,22.45,Pickup,2024-04-15
+4192453,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Blue Rhino,420lb,2,849.0,169.8,1528.2,Delivery,2024-07-19
+3007953,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-10-19
+9979545,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-12-30
+4387852,1861958,Omar,Marshall,omarmarshall895@yahoo.com,Florida,Ferrellgas,100lb,4,149.0,0.0,596.0,Delivery,2024-06-16
+4788543,5587856,Siobhan,Wright,wright.s@live.com,Utah,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-04-20
+3517643,5767195,Omar,Hill,omarhill1268@aol.com,Ohio,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-02-29
+2393728,5437118,Sakura,Reynolds,sakura.reynolds@aol.com,Louisiana,Ferrellgas,420lb,4,849.0,509.4,2886.6,Delivery,2024-04-03
+8363152,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,Suburban Propane,100lb,1,149.0,0.0,149.0,Pickup,2024-10-29
+7285495,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,Blue Rhino,20lb,1,24.99,1.25,23.74,Pickup,2024-07-24
+3688166,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,Suburban Propane,33lb,4,49.95,0.0,199.8,Delivery,2024-01-14
+2812554,9235577,DeShawn,Jones,deshawn_jones@live.com,Nevada,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-08-13
+8381800,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,AmeriGas,20lb,2,24.99,4.0,45.98,Pickup,2024-08-16
+3341247,7049927,Jessica,Webb,jessica.webb@att.net,California,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-02-18
+4096510,6357240,Peter,Jordan,peter72@outlook.com,New York,Ferrellgas,100lb,2,149.0,14.9,283.1,Delivery,2024-04-21
+5229515,7333337,Ryo,Lee,rlee@att.net,New York,Blue Rhino,420lb,5,849.0,0.0,4245.0,Pickup,2024-09-19
+5862980,7191135,Monique,Snyder,monique96@att.net,Minnesota,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-08-20
+3094224,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Blue Rhino,33lb,5,49.95,24.98,224.77,Delivery,2024-11-26
+3850704,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Ferrellgas,33lb,1,49.95,2.5,47.45,Pickup,2024-04-15
+9721175,2264218,Amy,Ruiz,aruiz1469@sbcglobal.net,New Mexico,AmeriGas,20lb,2,24.99,2.5,47.48,Delivery,2024-01-08
+6619187,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,Blue Rhino,420lb,1,849.0,0.0,849.0,Pickup,2024-03-02
+7698083,5801541,Boris,Russell,boris.r33@icloud.com,Massachusetts,NGL Energy,20lb,5,24.99,0.0,124.95,Delivery,2024-07-25
+6937335,1879109,Carlos,Gonzalez,carlosgonzalez1602@att.net,Oregon,AmeriGas,1lb,3,4.49,0.0,13.47,Pickup,2024-06-18
+1928728,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-07-09
+7381258,9225346,Chloe,White,chloe19@yahoo.com,Florida,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-03-27
+5329406,4470105,Pooja,Coleman,pooja.coleman@live.com,Louisiana,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-05-19
+3097558,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-10-09
+9812402,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,Ferrellgas,100lb,1,149.0,7.45,141.55,Delivery,2024-10-30
+5580646,8926478,Sofia,Murray,sofia.murray@sbcglobal.net,Texas,AmeriGas,33lb,4,49.95,0.0,199.8,Delivery,2024-12-30
+9742856,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,Suburban Propane,33lb,4,49.95,23.98,175.82,Delivery,2024-12-03
+6749416,9240971,Natasha,Wright,natashawright1000@outlook.com,Iowa,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-07-14
+8297709,7907400,Aisha,Ward,aishaward858@outlook.com,Oklahoma,NGL Energy,420lb,3,849.0,0.0,2547.0,Delivery,2024-06-12
+9742456,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-09-02
+9957402,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-06-19
+5669851,7067228,Elena,Collins,elena.collins@yahoo.com,Maryland,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-04-15
+4359756,9480665,Natasha,Patel,npatel@att.net,Oklahoma,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-10-12
+8852729,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-09-21
+9665105,7333337,Ryo,Lee,rlee@att.net,New York,Ferrellgas,100lb,1,149.0,7.45,141.55,Pickup,2024-08-30
+5129038,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,Blue Rhino,33lb,2,49.95,0.0,99.9,Delivery,2024-10-31
+5889205,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-02-22
+4554926,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,Blue Rhino,20lb,1,24.99,0.0,24.99,Delivery,2024-07-24
+8698199,1739653,James,Sanders,james_sanders@outlook.com,Nevada,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-10-09
+5381318,1987737,Boris,Thompson,boris66@gmail.com,Georgia,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-09-26
+7202069,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-06-23
+8197382,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,NGL Energy,1lb,5,4.49,2.25,20.2,Delivery,2024-06-30
+1188082,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-02-18
+7397002,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-11-29
+5218353,2913049,Sigrid,Woods,sigrid94@icloud.com,Utah,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-10-01
+3078947,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,AmeriGas,33lb,5,49.95,0.0,249.75,Pickup,2024-01-02
+6366039,9225346,Chloe,White,chloe19@yahoo.com,Florida,AmeriGas,20lb,1,24.99,2.5,22.49,Pickup,2024-06-02
+3113620,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,NGL Energy,33lb,3,49.95,0.0,149.85,Delivery,2024-07-15
+3782058,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Suburban Propane,33lb,3,49.95,0.0,149.85,Delivery,2024-03-05
+6720745,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Suburban Propane,420lb,4,849.0,0.0,3396.0,Delivery,2024-08-19
+9414204,1801102,Fatima,Gonzalez,fgonzalez203@live.com,Utah,Blue Rhino,33lb,1,49.95,2.5,47.45,Delivery,2024-01-13
+5695180,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Suburban Propane,20lb,1,24.99,0.0,24.99,Pickup,2024-08-09
+1590477,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,NGL Energy,420lb,1,849.0,101.88,747.12,Delivery,2024-05-30
+4810526,4052834,Ana,Wallace,ana.wallace@att.net,Missouri,Suburban Propane,1lb,1,4.49,0.0,4.49,Delivery,2024-10-04
+4240006,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,NGL Energy,20lb,5,24.99,0.0,124.95,Pickup,2024-12-19
+9741022,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-10-12
+7399569,3726201,Emma,Gomez,emma.gomez@outlook.com,Connecticut,Ferrellgas,1lb,2,4.49,0.72,8.26,Pickup,2024-07-18
+1347746,2319479,Priya,Cruz,priya.c22@aolcom,Florida,Blue Rhino,100lb,2,149.0,0.0,298.0,Pickup,2024-02-10
+2001147,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-11-05
+6759137,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,AmeriGas,33lb,4,49.95,0.0,199.8,Delivery,2024-06-12
+3064864,8608449,Amit,Kim,amit41@yahoo.com,Massachusetts,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-06-06
+5027148,1432519,Ana,Jones,ana.j42@aol.com,Texas,AmeriGas,20lb,5,24.99,12.5,112.45,Delivery,2024-09-04
+4683039,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Blue Rhino,100lb,2,149.0,0.0,298.0,Delivery,2024-03-24
+6491114,7296605,Priya,Edwards,priya.e90@yahoo.com,Maryland,Suburban Propane,420lb,2,849.0,0.0,1698.0,Pickup,2024-12-25
+1098967,5130808,Antonio,Anderson,antonioanderson933@live.com,Louisiana,NGL Energy,1lb,5,4.49,1.12,21.33,Delivery,2024-06-19
+8740538,2721170,Lars,Wright,larswright1637@hotmail.com,North Carolina,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-10-29
+8691004,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,AmeriGas,1lb,3,4.49,0.0,13.47,Pickup,2024-04-13
+7660590,9799030,Megan,Kim,mkim@comcast.net,Illinois,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-03-15
+2840033,9037616,Dmitri,Stewart,dmitri_stewart@att.net,Indiana,Blue Rhino,1lb,2,4.49,0.0,8.98,Pickup,2024-03-21
+6415686,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Suburban Propane,33lb,2,49.95,0.0,99.9,Pickup,2024-06-17
+2473390,4442778,Jessica,Snyder,jessica.s30@icloud.com,Arizona,NGL Energy,33lb,1,49.95,2.5,47.45,Delivery,2024-01-11
+8611432,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,AmeriGas,33lb,3,49.95,11.99,137.86,Pickup,2024-10-17
+9207723,7084862,Destiny,Perry,destiny51@att.net,North Carolina,NGL Energy,20lb,1,24.99,0.0,24.99,Delivery,2024-08-26
+4742179,7724045,Jessica,Adams,jessicaadams1603@gmail.com,Pennsylvania,Suburban Propane,100lb,1,149.0,0.0,149.0,Delivery,2024-05-21
+7443567,2739191,Antonio,Sanders,antonio.sanders@outlook.com,Arizona,Blue Rhino,100lb,2,149.0,35.76,262.24,Delivery,2024-04-18
+1738407,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-10-26
+2485285,6702160,Tamara,Ward,tamara_ward@gmail.com,Utah,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-10-15
+7488875,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Suburban Propane,20lb,4,24.99,0.0,99.96,Delivery,2024-06-25
+2258262,5673599,Ricardo,Cook,ricardo.cook@comcast.net,Utah,Blue Rhino,420lb,4,849.0,169.8,3226.2,Pickup,2024-02-09
+2197032,1157662,Olivia,Watson,owatson@att.net,Washington,Ferrellgas,1lb,5,4.49,1.8,20.65,Delivery,2024-01-08
+4180079,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,NGL Energy,20lb,5,24.99,0.0,124.95,Delivery,2024-12-10
+8686718,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,AmeriGas,1lb,4,4.49,1.8,16.16,Delivery,2024-07-20
+6275644,7631419,Barbara,Johnson,barbara_johnson@icloud.com,Ohio,AmeriGas,1lb,3,4.49,0.0,13.47,Delivery,2024-12-19
+3840731,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Ferrellgas,33lb,5,49.95,0.0,249.75,Pickup,2024-09-04
+9986330,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,NGL Energy,100lb,2,149.0,0.0,298.0,Delivery,2024-04-18
+2628473,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,AmeriGas,1lb,1,4.49,0.22,4.27,Delivery,2024-05-18
+9060167,7444964,Pooja,Bailey,pooja74@outlookcom,Wisconsin,NGL Energy,1lb,5,4.49,2.25,20.2,Delivery,2024-01-04
+6847081,2500901,Ricardo,Morgan,ricardo.morgan@att.net,Tennessee,Ferrellgas,20lb,3,24.99,0.0,74.97,Delivery,2024-01-13
+5958372,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-07-27
+7210098,1432519,Ana,Jones,ana.j42@aol.com,Texas,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-07-06
+8318725,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,AmeriGas,20lb,3,24.99,0.0,74.97,Delivery,2024-07-08
+3586094,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Suburban Propane,100lb,1,149.0,0.0,149.0,Delivery,2024-12-24
+5369510,1454696,Aaliyah,Ramos,aramos447@outlook.com.com,North Carolina,AmeriGas,100lb,5,149.0,37.25,707.75,Delivery,2024-07-18
+8418909,9988193,Siobhan,Garcia,garcia.s@att.net,New York,Ferrellgas,33lb,2,49.95,9.99,89.91,Delivery,2024-12-30
+7254970,3937508,Daniel,Marshall,dmarshall@outlook.com,Maryland,Suburban Propane,33lb,5,49.95,0.0,249.75,Pickup,2024-07-30
+3169632,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,Blue Rhino,1lb,3,4.49,0.0,13.47,Pickup,2024-10-11
+6533643,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-09-11
+2146505,9801946,Sean,Walker,sean_walker@icloud.com,Illinois,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-04-12
+3860089,9993490,William,Mendoza,william.m19@live.com,Michigan,AmeriGas,420lb,4,849.0,509.4,2886.6,Pickup,2024-09-23
+3562193,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,NGL Energy,20lb,2,24.99,0.0,49.98,Delivery,2024-03-05
+8780612,3030966,Fernando,Anderson,anderson.f@aol.com,Florida,Blue Rhino,100lb,2,149.0,0.0,298.0,Delivery,2024-08-24
+2973853,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,Ferrellgas,20lb,2,24.99,2.5,47.48,Pickup,2024-05-24
+1789750,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Suburban Propane,33lb,4,49.95,0.0,199.8,Pickup,2024-06-22
+1512765,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Blue Rhino,33lb,4,49.95,0.0,199.8,Pickup,2024-09-20
+4681195,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Ferrellgas,33lb,2,49.95,14.98,84.92,Pickup,2024-01-29
+7154919,2338687,Irina,Walker,irina_walker@comcast.net,Utah,NGL Energy,1lb,4,4.49,0.0,17.96,Delivery,2024-11-08
+2592385,6664316,Fernando,Anderson,fernandoanderson168@gmail.com,Maryland,AmeriGas,20lb,3,24.99,0.0,74.97,Delivery,2024-11-04
+2920094,8344365,Benjamin,Webb,bwebb@att.net,Kansas,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-10-24
+4274069,2436347,Fatima,Hamilton,fatima.h61@sbcglobal.net,New Mexico,NGL Energy,420lb,2,849.0,0.0,1698.0,Delivery,2024-02-11
+5233438,8399399,Dwight,Gonzalez,gonzalez.d@outlook.com,Tennessee,Blue Rhino,420lb,1,849.0,0.0,849.0,Pickup,2024-08-09
+7877413,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,Ferrellgas,1lb,3,4.49,0.0,13.47,Pickup,2024-01-29
+2974957,2326581,Zoe,Perry,zoe.p35@yahoo.com,Colorado,Suburban Propane,100lb,1,149.0,0.0,149.0,Pickup,2024-01-26
+3000143,9235577,DeShawn,Jones,deshawn_jones@live.com,Nevada,Blue Rhino,100lb,4,149.0,0.0,596.0,Pickup,2024-01-06
+5737922,3595941,Chantel,Cook,chantel72yahoo.com,Washington,Suburban Propane,420lb,2,849.0,0.0,1698.0,Delivery,2024-08-12
+8316947,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-05-06
+5758092,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-07-12
+6977035,8607331,Ana,Mendoza,amendoza1229@comcast.net,Minnesota,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-01-06
+1247326,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,NGL Energy,420lb,2,849.0,254.7,1443.3,Delivery,2024-04-10
+5542317,7145971,Kenji,Henderson,kenji.henderson@live.com,Massachusetts,Suburban Propane,20lb,3,24.99,0.0,74.97,Delivery,2024-07-03
+5080351,2867825,Richard,Diaz,richard.d95@icloud.com,New York,Blue Rhino,33lb,1,49.95,0.0,49.95,Pickup,2024-01-30
+7070025,2326581,Zoe,Perry,zoe.p35@yahoo.com,Colorado,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-07-09
+2462431,5673599,Ricardo,Cook,ricardo.cook@comcast.net,Utah,Suburban Propane,1lb,4,4.49,0.0,17.96,Delivery,2024-05-12
+2998738,1899411,Diego,Hill,diego_hill@live.com,New York,Suburban Propane,100lb,3,149.0,0.0,447.0,Delivery,2024-02-26
+5528994,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-12-31
+7554693,2373555,Erik,Hayes,erik73@att.net,New York,NGL Energy,420lb,5,849.0,0.0,4245.0,Pickup,2024-10-26
+5251774,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,NGL Energy,1lb,4,4.49,2.16,15.8,Pickup,2024-05-30
+5277642,1047572,Patrick,Nelson,patrick_nelson@outlook.com,New York,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-08-01
+2615622,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-08-04
+2187207,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-04-08
+6375054,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Blue Rhino,1lb,2,4.49,0.0,8.98,Delivery,2024-05-13
+4874049,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,NGL Energy,20lb,2,24.99,0.0,49.98,Delivery,2024-06-03
+8996464,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,Blue Rhino,1lb,3,4.49,1.35,12.12,Delivery,2024-03-26
+8700708,1987737,Boris,Thompson,boris66@gmail.com,Georgia,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-04-16
+6293259,5147994,Patrick,Olson,patrick.o57@sbcglobal.net,Florida,NGL Energy,420lb,1,849.0,84.9,764.1,Delivery,2024-08-30
+5237501,6919270,Fatima,Patel,fpatel@comcast.net,Florida,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-09-06
+1406123,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,Ferrellgas,20lb,3,24.99,0.0,74.97,Delivery,2024-01-23
+6346113,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,AmeriGas,20lb,4,24.99,10.0,89.96,Pickup,2024-12-24
+6308033,2582524,Lamont,Wallace,wallace.l@aol.com,Oklahoma,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-05-18
+1337345,9993490,William,Mendoza,william.m19@live.com,Michigan,Blue Rhino,1lb,2,4.49,0.0,8.98,Delivery,2024-02-07
+3522295,9230828,Emma,Carter,ecarter@aol.com,Minnesota,AmeriGas,420lb,2,849.0,254.7,1443.3,Pickup,2024-06-24
+9949336,3920762,Kenji,Woods,kenjiwoods486@icloud.com,Georgia,NGL Energy,1lb,2,4.49,0.0,8.98,Pickup,2024-05-09
+3529642,2582524,Lamont,Wallace,wallace.l@aol.com,Oklahoma,Blue Rhino,20lb,3,24.99,0.0,74.97,Delivery,2024-02-25
+8827002,2567468,Andre,Carter,acarter@live.com,Virginia,Suburban Propane,420lb,2,849.0,0.0,1698.0,Delivery,2024-05-25
+4598169,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Suburban Propane,100lb,5,149.0,89.4,655.6,Delivery,2024-11-21
+1618704,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-04-24
+2316802,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,420lb,1,849.0,0.0,849.0,Pickup,2024-05-08
+1999793,7333337,Ryo,Lee,rlee@att.net,New York,Suburban Propane,420lb,3,849.0,127.35,2419.65,Delivery,2024-04-12
+6275739,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,AmeriGas,420lb,1,849.0,0.0,849.0,Delivery,2024-08-22
+1272943,3698193,Clint,Graham,clint_graham@sbcglobal.net,Utah,AmeriGas,100lb,2,149.0,0.0,298.0,Delivery,2024-07-14
+4845464,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Blue Rhino,20lb,5,24.99,0.0,124.95,Pickup,2024-04-14
+7326402,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,NGL Energy,20lb,3,24.99,3.75,71.22,Pickup,2024-05-09
+6158936,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Suburban Propane,33lb,2,49.95,11.99,87.91,Pickup,2024-02-03
+9299539,7982241,Katia,Olson,kolson1935@comcast.net,Michigan,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-01-17
+2909863,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,Ferrellgas,33lb,4,49.95,0.0,199.8,Pickup,2024-11-03
+9125932,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Ferrellgas,420lb,4,849.0,0.0,3396.0,Pickup,2024-01-26
+7178089,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-11-29
+6281272,2373555,Erik,Hayes,erik73@att.net,New York,NGL Energy,20lb,1,24.99,0.0,24.99,Pickup,2024-05-26
+5888148,1669324,Yuki,Morris,yukimorris799@icloud.com,Iowa,Ferrellgas,420lb,4,849.0,407.52,2988.48,Delivery,2024-07-01
+5981239,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,Blue Rhino,20lb,3,24.99,0.0,74.97,Delivery,2024-01-22
+5079421,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,Blue Rhino,1lb,1,4.49,0.67,3.82,Delivery,2024-09-14
+7978813,7858012,Eugene,Hernandez,eugenehernandez750@aol.com.com,Minnesota,AmeriGas,100lb,3,149.0,44.7,402.3,Delivery,2024-04-28
+5728448,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,NGL Energy,100lb,4,149.0,0.0,596.0,Delivery,2024-11-14
+9600893,8312936,Ebony,Lewis,ebony43@sbcglobal.net,Arizona,Blue Rhino,100lb,4,149.0,0.0,596.0,Delivery,2024-01-24
+4346251,2975701,Nadia,Kelly,nadia.k37@sbcglobal.net,Indiana,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-09-04
+4740892,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,AmeriGas,1lb,1,4.49,0.54,3.95,Pickup,2024-06-27
+1933705,2264218,Amy,Ruiz,aruiz1469@sbcglobal.net,New Mexico,AmeriGas,33lb,4,49.95,0.0,199.8,Pickup,2024-03-23
+5811072,7907400,Aisha,Ward,aishaward858@outlook.com,Oklahoma,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-11-20
+7095875,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-04-02
+4333354,1801102,Fatima,Gonzalez,fgonzalez203@live.com,Utah,NGL Energy,100lb,2,149.0,0.0,298.0,Pickup,2024-07-20
+5247996,5435261,Chantel,Collins,chantel_collins@icloud.com,Georgia,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-06-19
+2410406,8318550,William,Bryant,william55@@yahoo.com,Louisiana,Ferrellgas,100lb,2,149.0,44.7,253.3,Delivery,2024-04-19
+6667733,6702160,Tamara,Ward,tamara_ward@gmail.com,Utah,Suburban Propane,100lb,5,149.0,59.6,685.4,Delivery,2024-01-29
+5094863,3726201,Emma,Gomez,emma.gomez@outlook.com,Connecticut,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-01-02
+9611282,9993490,William,Mendoza,william.m19@live.com,Michigan,Blue Rhino,33lb,2,49.95,0.0,99.9,Pickup,2024-12-16
+5202421,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-04-27
+3101870,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-05-13
+8986164,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Blue Rhino,20lb,2,24.99,0.0,49.98,Delivery,2024-11-15
+1518651,6541407,Antoine,Walker,antoine.walker@outlook.com,Tennessee,Suburban Propane,1lb,5,4.49,1.8,20.65,Pickup,2024-01-28
+7448284,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Suburban Propane,420lb,1,849.0,0.0,849.0,Pickup,2024-02-11
+3827659,3726201,Emma,Gomez,emma.gomez@outlook.com,Connecticut,Blue Rhino,420lb,5,849.0,0.0,4245.0,Pickup,2024-06-01
+5164118,7923579,Sanjay,Simpson,ssimpson@att.net,North Carolina,Blue Rhino,33lb,5,49.95,12.49,237.26,Delivery,2024-06-20
+3070908,2913049,Sigrid,Woods,sigrid94@icloud.com,Utah,AmeriGas,100lb,3,149.0,44.7,402.3,Pickup,2024-07-28
+6318720,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Ferrellgas,100lb,1,149.0,11.92,137.08,Delivery,2024-10-20
+1347135,9480665,Natasha,Patel,npatel@att.net,Oklahoma,AmeriGas,20lb,3,24.99,7.5,67.47,Delivery,2024-12-11
+5217487,7186390,Siobhan,Lopez,lopez.s@yahoo.com,Minnesota,Suburban Propane,33lb,1,49.95,0.0,49.95,Pickup,2024-02-29
+9660803,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Blue Rhino,420lb,4,849.0,407.52,2988.48,Delivery,2024-10-04
+4591668,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Ferrellgas,33lb,1,49.95,7.49,42.46,Delivery,2024-05-28
+2084777,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,Blue Rhino,1lb,5,4.49,0.0,22.45,Pickup,2024-01-28
+6286061,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,AmeriGas,100lb,2,149.0,0.0,298.0,Pickup,2024-11-07
+6806635,7049927,Jessica,Webb,jessica.webb@att.net,California,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-05-25
+4415979,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-01-05
+5931029,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,NGL Energy,420lb,1,849.0,0.0,849.0,Pickup,2024-05-07
+8681853,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,AmeriGas,1lb,4,4.49,0.0,17.96,Delivery,2024-09-11
+7457158,7818496,Marcus,Owens,owens.m@icloud.com,Illinois,Blue Rhino,420lb,5,849.0,339.6,3905.4,Delivery,2024-11-08
+2403154,2721170,Lars,Wright,larswright1637@hotmail.com,North Carolina,AmeriGas,420lb,2,849.0,203.76,1494.24,Pickup,2024-02-21
+1788304,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-10-26
+5404004,5928582,Harold,Perez,harold38@yahoo.com,Michigan,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-09-10
+3418271,8095702,Linda,Watson,linda_watson@live.com,Louisiana,NGL Energy,100lb,2,149.0,23.84,274.16,Pickup,2024-01-30
+8189752,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Suburban Propane,1lb,2,4.49,0.0,8.98,Pickup,2024-08-01
+5490854,7333337,Ryo,Lee,rlee@att.net,New York,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-08-01
+3223631,1454696,Aaliyah,Ramos,aramos447@outlook.com,North Carolina,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-11-08
+1718961,8944327,Fatima,Cook,fcook@hotmail.com.com,Kansas,Ferrellgas,1lb,3,4.49,1.62,11.85,Delivery,2024-01-27
+9044494,2321324,Aaliyah,McDonald,amcdonald@yahoo.com,Oregon,NGL Energy,20lb,2,24.99,0.0,49.98,Pickup,2024-01-07
+9976368,1454696,Aaliyah,Ramos,aramos447@outlook.com,North Carolina,AmeriGas,100lb,4,149.0,0.0,596.0,Delivery,2024-03-20
+4837070,3386328,Sarah,Martin,sarah_martin@outlook.com,Utah,AmeriGas,100lb,2,149.0,23.84,274.16,Pickup,2024-02-09
+1273003,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-04-23
+4984280,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Ferrellgas,1lb,3,4.49,0.0,13.47,Delivery,2024-09-12
+7220742,1624315,Aoife,Ruiz,aoiferuiz555@yahoo.com,Ohio,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-06-15
+5329433,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,NGL Energy,420lb,3,849.0,0.0,2547.0,Delivery,2024-02-15
+4360650,5428914,Tamara,Harrison,tamara.harrison@hotmail.com,Tennessee,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-08-06
+4739473,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,NGL Energy,33lb,5,49.95,0.0,249.75,Pickup,2024-12-08
+3874940,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,NGL Energy,420lb,4,849.0,0.0,3396.0,Pickup,2024-09-09
+3355029,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-10-19
+5593537,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,Blue Rhino,20lb,1,24.99,1.25,23.74,Delivery,2024-04-10
+6584506,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,Blue Rhino,100lb,3,149.0,0.0,447.0,Pickup,2024-10-20
+8183451,7210606,Hiroshi,Morris,hiroshimorris1322@hotmail.com,Illinois,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-02-25
+2568625,1663497,Sarah,Parker,sarah.p27@live.com,Oklahoma,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-01-18
+8116596,9612629,Isabella,Griffin,isabella.g58@yahoo.com,Iowa,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-02-26
+4387157,9132114,Maria,Rodriguez,maria.r21@live.com,Michigan,Suburban Propane,100lb,1,149.0,17.88,131.12,Delivery,2024-02-24
+5994297,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-01-21
+9309504,3030966,Fernando,Anderson,anderson.f@aol.com,Florida,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-04-14
+2870334,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-02-07
+1907270,8610913,Camille,Campbell,camille_campbell@aol.com,Maryland,Blue Rhino,1lb,4,4.49,1.44,16.52,Pickup,2024-01-14
+9533248,7891662,Patricia,Price,price.p@sbcglobal.net,Connecticut,NGL Energy,100lb,1,149.0,14.9,134.1,Delivery,2024-06-14
+2586703,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,NGL Energy,100lb,5,149.0,0.0,745.0,Pickup,2024-11-28
+4824407,8344365,Benjamin,Webb,bwebb@att.net,Kansas,AmeriGas,33lb,3,49.95,14.99,134.86,Pickup,2024-12-23
+3404091,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,AmeriGas,420lb,2,849.0,84.9,1613.1,Delivery,2024-11-02
+6172822,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,Suburban Propane,1lb,5,4.49,2.69,19.76,Pickup,2024-05-24
+2009020,9106820,Marcus,Garcia,garcia.m@gmail.com,Missouri,NGL Energy,20lb,4,24.99,10.0,89.96,Pickup,2024-07-11
+9895263,2919136,Fernando,Murphy,fernando_murphy@sbcglobal.net,Illinois,AmeriGas,420lb,3,849.0,0.0,2547.0,Pickup,2024-08-08
+3810569,8607331,Ana,Mendoza,amendoza1229@comcast.net,Minnesota,Blue Rhino,420lb,4,849.0,0.0,3396.0,Pickup,2024-08-14
+7253500,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,NGL Energy,1lb,4,4.49,0.9,17.06,Delivery,2024-12-25
+4060575,8095702,Linda,Watson,linda_watson@live.com,Louisiana,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-08-16
+4366315,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Ferrellgas,100lb,2,149.0,29.8,268.2,Delivery,2024-12-03
+2171758,5928582,Harold,Perez,harold38@yahoo.com,Michigan,AmeriGas,1lb,4,4.49,0.0,17.96,Delivery,2024-01-30
+1207016,8344365,Benjamin,Webb,bwebb@att.net,Kansas,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-02-08
+6079345,1861958,Omar,Marshall,omarmarshall895@yahoo.com,Florida,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-04-04
+3451490,1447065,Monique,Howard,monique.h7@live.com,Louisiana,Ferrellgas,33lb,4,49.95,0.0,199.8,Pickup,2024-06-08
+7519606,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-07-25
+4708733,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,AmeriGas,420lb,3,849.0,0.0,2547.0,Delivery,2024-11-23
+7095071,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,Suburban Propane,1lb,1,4.49,0.0,4.49,Pickup,2024-05-18
+3624846,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-03-02
+1435572,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,Ferrellgas,1lb,4,4.49,0.0,17.96,Pickup,2024-05-23
+6501987,4052834,Ana,Wallace,ana.wallace@@att.net,Missouri,Suburban Propane,33lb,2,49.95,0.0,99.9,Pickup,2024-04-23
+7692147,7597509,Tamara,Bryant,tamara.b46@icloud.com,California,Blue Rhino,420lb,2,849.0,135.84,1562.16,Pickup,2024-12-07
+2833787,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-01-04
+2109583,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,Blue Rhino,100lb,5,149.0,0.0,745.0,Delivery,2024-12-31
+5582437,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-07-25
+6326278,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-09-19
+9406675,2373555,Erik,Hayes,erik73@att.net,New York,Blue Rhino,20lb,2,24.99,0.0,49.98,Delivery,2024-10-02
+7550021,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Blue Rhino,100lb,3,149.0,0.0,447.0,Delivery,2024-11-12
+8113264,1432519,Ana,Jones,ana.j42@aol.com,Texas,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-09-25
+1494630,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-07-20
+4248834,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,Ferrellgas,100lb,1,149.0,7.45,141.55,Pickup,2024-10-03
+6727358,2567468,Andre,Carter,acarter@live.com,Virginia,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-02-26
+9670757,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,NGL Energy,420lb,2,849.0,203.76,1494.24,Pickup,2024-06-24
+1786680,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-09-04
+2425760,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,AmeriGas,20lb,3,24.99,11.25,63.72,Pickup,2024-02-14
+8878038,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Ferrellgas,20lb,1,24.99,0.0,24.99,Pickup,2024-09-19
+1633753,2512187,Maeve,Long,mlong@comcast.net,Connecticut,AmeriGas,33lb,1,49.95,0.0,49.95,Pickup,2024-05-03
+6116985,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-04-16
+8790459,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-02-05
+3034109,6204824,Raj,Scott,rajscott709@live.com,Colorado,NGL Energy,1lb,5,4.49,0.0,22.45,Delivery,2024-08-28
+5538377,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-05-09
+4527197,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-08-11
+7383812,1440972,Kenji,Snyder,kenji71@live.com,Ohio,NGL Energy,1lb,1,4.49,0.0,4.49,Pickup,2024-05-16
+5674614,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Blue Rhino,1lb,2,4.49,0.0,8.98,Pickup,2024-10-04
+8165129,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,AmeriGas,20lb,2,24.99,0.0,49.98,Delivery,2024-02-14
+3457722,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,Blue Rhino,20lb,4,24.99,0.0,99.96,Delivery,2024-12-21
+4761958,8312936,Ebony,Lewis,ebony43@sbcglobal.net,Arizona,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-10-05
+8725762,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-05-10
+6583476,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Blue Rhino,420lb,5,849.0,424.5,3820.5,Delivery,2024-06-06
+5234408,1987737,Boris,Thompson,boris66@gmail.com,Georgia,NGL Energy,33lb,3,49.95,0.0,149.85,Delivery,2024-03-01
+3071885,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,AmeriGas,100lb,2,149.0,14.9,283.1,Delivery,2024-01-25
+6998844,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Suburban Propane,33lb,4,49.95,0.0,199.8,Delivery,2024-06-12
+3979181,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,AmeriGas,20lb,3,24.99,0.0,74.97,Delivery,2024-09-05
+7269347,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Suburban Propane,100lb,5,149.0,0.0,745.0,Pickup,2024-12-04
+8791898,2237331,Carlos,Price,cprice1029@yahoo.com,Missouri,Suburban Propane,420lb,4,849.0,509.4,2886.6,Pickup,2024-07-31
+6927556,8608449,Amit,Kim,amit41@yahoo.com,Massachusetts,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-09-18
+7906275,7027375,Connor,Kelly,ckelly1029@aol.com,Connecticut,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-01-26
+2375290,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Ferrellgas,20lb,5,24.99,6.25,118.7,Pickup,2024-06-25
+7538471,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Suburban Propane,20lb,3,24.99,6.0,68.97,Delivery,2024-02-15
+9955185,7251976,Ana,Simpson,ana16@gmail.com,Tennessee,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-08-07
+9167564,2913049,Sigrid,Woods,sigrid94@icloud.com,Utah,Ferrellgas,1lb,3,4.49,0.67,12.8,Pickup,2024-05-17
+5366631,2264218,Amy,Ruiz,aruiz1469@sbcglobal.net,New Mexico,NGL Energy,100lb,5,149.0,59.6,685.4,Pickup,2024-06-18
+8965487,5801541,Boris,Russell,boris.r33@icloud.com,Massachusetts,Blue Rhino,420lb,5,849.0,0.0,4245.0,Pickup,2024-02-15
+3288489,7296605,Priya,Edwards,priya.e90@yahoo.com,Maryland,Suburban Propane,20lb,3,24.99,0.0,74.97,Pickup,2024-04-12
+2511336,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,NGL Energy,1lb,1,4.49,0.0,4.49,Pickup,2024-02-29
+4646403,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-04-03
+3277847,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Suburban Propane,100lb,5,149.0,0.0,745.0,Delivery,2024-02-29
+2530068,6440561,Barbara,Rogers,barbara35@gmail.com,Florida,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-06-12
+4517141,1440972,Kenji,Snyder,kenji71@live.com,Ohio,AmeriGas,100lb,5,149.0,0.0,745.0,Delivery,2024-08-18
+6360633,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-11-24
+4896735,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Ferrellgas,100lb,3,149.0,67.05,379.95,Delivery,2024-05-20
+1838837,3420404,Stephen,Woods,stephen.woods@comcast.net,Ohio,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-07-30
+3444734,1663497,Sarah,Parker,sarah.p27@live.com,Oklahoma,Blue Rhino,420lb,3,849.0,0.0,2547.0,Pickup,2024-10-18
+3371416,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-09-28
+8729953,5673599,Ricardo,Cook,ricardo.cook@comcast.net,Utah,Ferrellgas,100lb,3,149.0,0.0,447.0,Delivery,2024-10-26
+8445941,7858012,Eugene,Hernandez,eugenehernandez750@aol.com,Minnesota,AmeriGas,420lb,1,849.0,84.9,764.1,Delivery,2024-02-02
+9832340,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-04-20
+4331283,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,AmeriGas,420lb,5,849.0,424.5,3820.5,Pickup,2024-05-07
+6256199,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Ferrellgas,20lb,2,24.99,0.0,49.98,Delivery,2024-06-10
+9142618,5107245,Mei,Ellis,mei_ellis@comcast.net,Indiana,Ferrellgas,1lb,1,4.49,0.54,3.95,Pickup,2024-10-24
+8215793,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-05-03
+7099881,9225346,Chloe,White,chloe19@yahoo.com,Florida,Ferrellgas,33lb,1,49.95,2.5,47.45,Pickup,2024-07-24
+7822403,3938247,Kavita,Simpson,kavita.simpson@sbcglobal.net,Massachusetts,AmeriGas,1lb,1,4.49,0.0,4.49,Delivery,2024-02-26
+3881880,9801946,Sean,Walker,sean_walker@icloud.com,Illinois,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-06-11
+9502613,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-06-16
+3926839,3094235,Ryo,Lee,ryo_lee@att.net,Virginia,NGL Energy,20lb,3,24.99,0.0,74.97,Delivery,2024-04-25
+8134419,3560856,Monique,Thompson,moniquethompson265@yahoo.com,New York,Blue Rhino,33lb,5,49.95,0.0,249.75,Delivery,2024-06-26
+3155912,7262974,Omar,Garcia,omargarcia781@aol.com,Wisconsin,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-04-11
+9025640,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,Blue Rhino,33lb,2,49.95,0.0,99.9,Delivery,2024-10-24
+5439229,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-09-01
+9800708,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Ferrellgas,420lb,5,849.0,339.6,3905.4,Delivery,2024-06-18
+4387856,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-06-06
+1924685,7444964,Pooja,Bailey,pooja74@outlook.com,Wisconsin,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-08-06
+2852907,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,AmeriGas,33lb,3,49.95,0.0,149.85,Delivery,2024-06-10
+3634111,3846949,Aaliyah,Wood,aaliyah97@att.net,Georgia,AmeriGas,33lb,3,49.95,0.0,149.85,Delivery,2024-05-02
+2751895,2921542,Mei,Cruz,mei.cruz@yahoo.com,Louisiana,AmeriGas,420lb,2,849.0,84.9,1613.1,Delivery,2024-06-23
+3482092,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,Ferrellgas,100lb,5,149.0,0.0,745.0,Delivery,2024-08-11
+8448343,9961299,Carlos,Diaz,carlos.diaz@gmail.com,Indiana,Blue Rhino,420lb,4,849.0,407.52,2988.48,Pickup,2024-05-21
+6745050,7223751,Aiko,Cole,acole@yahoo.com,Colorado,NGL Energy,20lb,2,24.99,0.0,49.98,Pickup,2024-03-17
+9578785,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Blue Rhino,20lb,4,24.99,0.0,99.96,Pickup,2024-10-22
+9428760,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Ferrellgas,100lb,3,149.0,44.7,402.3,Pickup,2024-12-11
+9349199,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,Blue Rhino,420lb,2,849.0,0.0,1698.0,Delivery,2024-09-09
+3081929,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-02-06
+8990421,4551070,Ethan,Long,long.e@aol.com,Utah,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-06-14
+7278132,8926478,Sofia,Murray,sofia.murray@sbcglobal.net,Texas,Blue Rhino,1lb,2,4.49,0.0,8.98,Pickup,2024-09-05
+7169672,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,NGL Energy,420lb,5,849.0,339.6,3905.4,Delivery,2024-12-20
+2208802,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-03-30
+3879023,4442778,Jessica,Snyder,jessica.s30@icloud.com,Arizona,Suburban Propane,1lb,2,4.49,0.0,8.98,Delivery,2024-04-08
+5658528,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-03-07
+1037773,9230828,Emma,Carter,ecarter@aol.com,Minnesota,Suburban Propane,420lb,2,849.0,135.84,1562.16,Pickup,2024-01-24
+5839473,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,AmeriGas,20lb,3,24.99,0.0,74.97,Pickup,2024-05-22
+2574505,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,NGL Energy,100lb,3,149.0,67.05,379.95,Delivery,2024-01-13
+6478510,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,Ferrellgas,33lb,1,49.95,0.0,49.95,Pickup,2024-10-23
+4887669,2919549,Lucia,Murphy,lmurphy1893@comcast.net,Tennessee,Suburban Propane,33lb,2,49.95,0.0,99.9,Pickup,2024-01-29
+6189630,7268384,Sanjay,Vasquez,sanjay.v32@sbcglobal.net,Massachusetts,Ferrellgas,20lb,2,24.99,0.0,49.98,Pickup,2024-08-12
+4370945,7333337,Ryo,Lee,rlee@att.net,New York,Ferrellgas,100lb,4,149.0,71.52,524.48,Pickup,2024-06-25
+8972838,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-02-17
+9969540,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-11-27
+5772192,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Blue Rhino,1lb,4,4.49,0.0,17.96,Delivery,2024-12-31
+2628546,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-10-12
+7977432,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-04-24
+7787380,8007741,Finn,Allen,finn.allen@comcast.net,Connecticut,Suburban Propane,100lb,1,149.0,14.9,134.1,Delivery,2024-02-26
+5365833,9284509,Benjamin,Lee,benjamin.lee@live.com,Wisconsin,Blue Rhino,100lb,4,149.0,71.52,524.48,Pickup,2024-10-02
+4160035,3949245,Charles,Patterson,cpatterson@sbcglobal.net,Oklahoma,NGL Energy,20lb,3,24.99,7.5,67.47,Delivery,2024-02-12
+9352238,2319479,Priya,Cruz,priya.c22@aol.com,Florida,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-04-14
+6036006,8519121,William,Lewis,william.l89@@hotmail.com,Georgia,Suburban Propane,1lb,3,4.49,0.0,13.47,Delivery,2024-12-11
+4115755,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-09-01
+3857489,3919694,Rosa,James,rosa.james@comcast.net,Pennsylvania,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-11-17
+1704130,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,NGL Energy,1lb,2,4.49,0.0,8.98,Pickup,2024-11-16
+5703436,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Suburban Propane,1lb,2,4.49,1.08,7.9,Delivery,2024-03-22
+1072046,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,NGL Energy,420lb,3,849.0,0.0,2547.0,Delivery,2024-11-22
+5325537,9363326,Chloe,Hernandez,chloe_hernandez@icloud.com,Kansas,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-06-08
+9401909,4335942,Helga,Gonzalez,hgonzalez1281@icloud.com,Connecticut,Ferrellgas,1lb,1,4.49,0.0,4.49,Pickup,2024-01-06
+9357316,1861958,Omar,Marshall,omarmarshall895@yahoo.com,Florida,AmeriGas,20lb,4,24.99,0.0,99.96,Delivery,2024-01-05
+5596579,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Ferrellgas,100lb,5,149.0,0.0,745.0,Pickup,2024-08-13
+1597875,2696860,Tamara,Burns,tamara.burns@att.net,Iowa,AmeriGas,20lb,2,24.99,0.0,49.98,Pickup,2024-07-25
+3489714,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,NGL Energy,100lb,2,149.0,0.0,298.0,Delivery,2024-09-10
+3421884,5587856,Siobhan,Wright,wright.s@live.com,Utah,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-06-04
+8583409,1985360,Erik,Martinez,erik.martinez@yahoocom,Tennessee,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-04-08
+6488547,6217344,Roberto,Bennett,roberto .b18@aol.com,Oregon,NGL Energy,100lb,1,149.0,7.45,141.55,Pickup,2024-07-04
+5102892,7455324,Hana,Stevens,hana_stevens@att.net,Massachusetts,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-01-01
+7057663,2436347,Fatima,Hamilton,fatima.h61@sbcglobal.net,New Mexico,Suburban Propane,20lb,4,24.99,0.0,99.96,Delivery,2024-09-27
+4446353,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Ferrellgas,100lb,3,149.0,53.64,393.36,Delivery,2024-12-24
+8695022,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,Blue Rhino,100lb,3,149.0,53.64,393.36,Delivery,2024-06-18
+1356829,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-02-29
+3663391,6919270,Fatima,Patel,fpatel@comcast.net,Florida,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-04-02
+6185050,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Blue Rhino,100lb,1,149.0,11.92,137.08,Pickup,2024-03-22
+4249147,5479421,Clint,James,clint.james@live.com,Washington,Suburban Propane,20lb,4,24.99,0.0,99.96,Delivery,2024-08-07
+4234033,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Blue Rhino,1lb,2,4.49,0.45,8.53,Delivery,2024-07-13
+7009980,5107245,Mei,Ellis,mei_ellis@comcast.net,Indiana,AmeriGas,420lb,4,849.0,407.52,2988.48,Pickup,2024-05-01
+4906109,6702160,Tamara,Ward,tamara_ward@gmail.com,Utah,Suburban Propane,33lb,5,49.95,29.97,219.78,Delivery,2024-07-23
+2018455,9633492,James,Burns,burns.j@sbcglobal.net,Missouri,NGL Energy,1lb,4,4.49,0.0,17.96,Pickup,2024-03-26
+7539295,3762487,Mei,Myers,mei67@icloud.com,Iowa,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-09-07
+3511322,9106820,Marcus,Garcia,garcia.m@gmail.com,Missouri,AmeriGas,33lb,1,49.95,5.0,44.95,Pickup,2024-01-18
+9214437,1432519,Ana,Jones,ana.j42@aol,Texas,AmeriGas,420lb,3,849.0,0.0,2547.0,Delivery,2024-03-20
+6589238,9209880,Vikram,Richardson,vikram57@gmail.com,Nevada,Blue Rhino,20lb,2,24.99,0.0,49.98,Pickup,2024-01-04
+1046902,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,Ferrellgas,20lb,4,24.99,0.0,99.96,Delivery,2024-01-04
+9098979,3770370,Nadia,Washington,washington.n@live.com,Maryland,AmeriGas,100lb,2,149.0,0.0,298.0,Delivery,2024-01-22
+3561626,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,Blue Rhino,100lb,4,149.0,0.0,596.0,Pickup,2024-09-13
+1899447,2338687,Irina,Walker,irina_walker@comcast.net,Utah,Ferrellgas,1lb,4,4.49,2.16,15.8,Delivery,2024-04-05
+2670640,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Blue Rhino,420lb,1,849.0,0.0,849.0,Delivery,2024-12-12
+7391631,3726201,Emma,Gomez,emma.gomez@outlook.com,Connecticut,AmeriGas,100lb,4,149.0,0.0,596.0,Delivery,2024-03-04
+2186125,6724909,Michael,Gonzalez,michaelgonzalez962@sbcglobal.net,New Mexico,Suburban Propane,33lb,5,49.95,29.97,219.78,Delivery,2024-01-01
+7541701,3673322,Shanice,Mendoza,smendoza1875@sbcglobal,Oregon,Blue Rhino,33lb,4,49.95,15.98,183.82,Pickup,2024-02-20
+7953189,4374754,Niamh,Jordan,njordan1917aol.com,Nevada,Blue Rhino,20lb,5,24.99,0.0,124.95,Pickup,2024-11-05
+1062026,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Blue Rhino,20lb,4,24.99,0.0,99.96,Pickup,2024-02-28
+2095334,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,AmeriGas,33lb,3,49.95,0.0,149.85,Delivery,2024-05-24
+2715864,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Ferrellgas,33lb,2,49.95,0.0,99.9,Pickup,2024-05-17
+5537143,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,AmeriGas,20lb,2,24.99,0.0,49.98,Pickup,2024-08-30
+6740356,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-09-11
+6829443,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,33lb,3,49.95,22.48,127.37,Delivery,2024-10-06
+3934217,8519121,William,Lewis,william.l89@hotmail.com,Georgia,NGL Energy,100lb,5,149.0,0.0,745.0,Pickup,2024-07-10
+8228013,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,NGL Energy,1lb,1,4.49,0.36,4.13,Pickup,2024-06-05
+9792431,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,Suburban Propane,420lb,2,849.0,0.0,1698.0,Delivery,2024-05-15
+8847168,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,Suburban Propane,420lb,5,849.0,0.0,4245.0,Delivery,2024-05-28
+6207508,4470105,Pooja,Coleman,pooja.coleman@live.com,Louisiana,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-03-26
+8054705,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-07-16
+2503717,7328534,Ethan,Myers,ethan.m50@icloud.com,Georgia,Blue Rhino,33lb,4,49.95,0.0,199.8,Pickup,2024-02-19
+4966490,9797727,Diego,Cooper,diego_cooper@icloud.com,North Carolina,Blue Rhino,1lb,3,4.49,0.0,13.47,Pickup,2024-10-11
+6237674,3718884,Natasha,Baker,natasha.baker@hotmail.com,Oklahoma,Ferrellgas,100lb,5,149.0,0.0,745.0,Delivery,2024-05-30
+9569884,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Ferrellgas,20lb,3,24.99,0.0,74.97,Pickup,2024-06-04
+3955709,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-07-20
+8383643,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,Ferrellgas,20lb,2,24.99,0.0,49.98,Delivery,2024-01-11
+6487324,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-06-27
+2112674,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-04-07
+2846415,9225346,Chloe,White,chloe19@yahoo.com,Florida,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-05-14
+4537620,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-07-31
+5481292,5479421,Clint,James,clint.james@live.com,Washington,Blue Rhino,20lb,2,24.99,6.0,43.98,Delivery,2024-02-16
+3924009,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Ferrellgas,420lb,2,849.0,84.9,1613.1,Pickup,2024-06-20
+6078780,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Ferrellgas,420lb,3,849.0,0.0,2547.0,Pickup,2024-01-29
+8232405,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,NGL Energy,1lb,3,4.49,1.35,12.12,Pickup,2024-08-12
+1177948,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-02-12
+4991496,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,AmeriGas,100lb,2,149.0,0.0,298.0,Delivery,2024-05-24
+4654207,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,1lb,5,4.49,0.0,22.45,Delivery,2024-05-30
+6392918,2721170,Lars,Wright,larswright1637@hotmail.com,North Carolina,NGL Energy,420lb,4,849.0,0.0,3396.0,Delivery,2024-07-20
+8709241,9796605,Jerome,Green,jgreen633@att.net,Connecticut,NGL Energy,20lb,2,24.99,0.0,49.98,Delivery,2024-03-30
+8628527,5107245,Mei,Ellis,mei_ellis@comcast.net,Indiana,Suburban Propane,33lb,5,49.95,12.49,237.26,Delivery,2024-01-24
+2361617,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Suburban Propane,33lb,1,49.95,0.0,49.95,Pickup,2024-05-20
+7104651,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,NGL Energy,1lb,2,4.49,0.0,8.98,Pickup,2024-09-11
+3302852,4768844,Stephen,Nelson,stephen.nelson@gmail.com,Virginia,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-01-26
+7378615,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,NGL Energy,1lb,3,4.49,2.02,11.45,Pickup,2024-08-21
+7575272,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-12-13
+3579924,5200476,Richard,Lewis,richard.lewis@icloudcom,Utah,AmeriGas,1lb,4,4.49,0.0,17.96,Delivery,2024-07-11
+7460238,9935249,Boris,Wells,boris51@@att.net,Oklahoma,Blue Rhino,100lb,1,149.0,0.0,149.0,Delivery,2024-05-25
+5595236,7333337,Ryo,Lee,rlee@att.net,New York,Suburban Propane,1lb,3,4.49,1.62,11.85,Pickup,2024-03-18
+7445414,2038068,Zoe,Perez,zoeperez1108@aol.com,Illinois,Ferrellgas,1lb,1,4.49,0.67,3.82,Delivery,2024-06-20
+6643418,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Suburban Propane,100lb,4,149.0,0.0,596.0,Delivery,2024-08-28
+7732903,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,AmeriGas,100lb,5,149.0,0.0,745.0,Delivery,2024-01-23
+5951043,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Suburban Propane,100lb,5,149.0,0.0,745.0,Pickup,2024-09-06
+1320859,2651177,Elizabeth,Reynolds,elizabethreynolds584@aol.com,Pennsylvania,Blue Rhino,20lb,2,24.99,2.5,47.48,Pickup,2024-09-01
+8452933,9214801,Diego,Hayes,dhayes781@att.net,Minnesota,AmeriGas,420lb,5,849.0,0.0,4245.0,Pickup,2024-07-21
+1682814,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Blue Rhino,1lb,5,4.49,0.0,22.45,Pickup,2024-09-28
+1133260,7724045,Jessica,Adams,jessicaadams1603@gmail.com,Pennsylvania,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-03-27
+5634166,2323049,Omar,Edwards,omar_edwards@att.net,Michigan,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-07-02
+6034195,7223751,Aiko,Cole,acole@yahoo.com,Colorado,NGL Energy,20lb,5,24.99,0.0,124.95,Delivery,2024-06-28
+4579482,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,Ferrellgas,33lb,3,49.95,22.48,127.37,Delivery,2024-04-18
+5560510,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,AmeriGas,420lb,4,849.0,0.0,3396.0,Pickup,2024-03-11
+3101118,7084862,Destiny,Perry,destiny51@att.net,North Carolina,AmeriGas,33lb,1,49.95,0.0,49.95,Pickup,2024-10-14
+2044933,5418934,Andre,Evans,andreevans1857@att.net,Michigan,Suburban Propane,20lb,2,24.99,5.0,44.98,Delivery,2024-11-09
+1464274,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,NGL Energy,1lb,4,4.49,1.44,16.52,Delivery,2024-07-11
+3584996,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,Blue Rhino,33lb,4,49.95,0.0,199.8,Delivery,2024-09-03
+5966428,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,Ferrellgas,100lb,1,149.0,11.92,137.08,Pickup,2024-04-28
+4346568,7724045,Jessica,Adams,jessicaadams1603@gmail.com,Pennsylvania,Suburban Propane,33lb,1,49.95,0.0,49.95,Delivery,2024-09-05
+9226010,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-05-01
+7531004,8607331,Ana,Mendoza,amendoza1229@comcast.net,Minnesota,Suburban Propane,1lb,5,4.49,0.0,22.45,Delivery,2024-06-29
+3417186,6307805,Ali,Flores,ali.f51@aol.com,Ohio,Ferrellgas,33lb,1,49.95,0.0,49.95,Pickup,2024-07-19
+8203947,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,Ferrellgas,20lb,2,24.99,2.5,47.48,Pickup,2024-04-16
+3316596,2739191,Antonio,Sanders,antonio.sanders@outlook.com,Arizona,Suburban Propane,20lb,1,24.99,3.0,21.99,Pickup,2024-01-15
+6379509,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-04-25
+6423586,2446455,Susan,Cruz,scruz1151@comcast.net,Maryland,AmeriGas,20lb,2,24.99,2.5,47.48,Pickup,2024-06-17
+6594616,7251976,Ana,Simpson,ana16@gmail.com,Tennessee,Blue Rhino,20lb,4,24.99,0.0,99.96,Delivery,2024-06-17
+7551438,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Suburban Propane,20lb,5,24.99,0.0,124.95,Pickup,2024-03-18
+7954589,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,NGL Energy,420lb,5,849.0,339.6,3905.4,Delivery,2024-08-20
+2619679,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,AmeriGas,100lb,4,149.0,0.0,596.0,Pickup,2024-03-08
+9396422,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-08-16
+3797952,6510922,Carlos,Webb,webb.c@yahoo.com,Texas,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-10-18
+7011065,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Blue Rhino,100lb,3,149.0,0.0,447.0,Pickup,2024-02-04
+6840068,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,NGL Energy,420lb,4,849.0,169.8,3226.2,Pickup,2024-02-07
+5196564,1879109,Carlos,Gonzalez,carlosgonzalez1602att.net,Oregon,Blue Rhino,100lb,4,149.0,0.0,596.0,Delivery,2024-11-14
+8113803,3762487,Mei,Myers,mei67@icloud.com,Iowa,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-07-26
+9183716,6541407,Antoine,Walker,antoine.walker@outlook.com,Tennessee,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-10-06
+5387228,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,AmeriGas,1lb,4,4.49,0.0,17.96,Pickup,2024-08-30
+6025126,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-04-26
+4697296,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-05-12
+1048085,7251976,Ana,Simpson,ana16@gmail.com,Tennessee,Blue Rhino,1lb,3,4.49,0.0,13.47,Pickup,2024-12-08
+9354503,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-09-14
+9169958,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,AmeriGas,1lb,1,4.49,0.22,4.27,Delivery,2024-10-13
+5949278,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,Suburban Propane,1lb,4,4.49,1.44,16.52,Pickup,2024-08-01
+2679655,2237331,Carlos,Price,cprice1029@yahoo.com,Missouri,AmeriGas,33lb,2,49.95,5.0,94.9,Pickup,2024-06-14
+3213134,6440561,Barbara,Rogers,barbara35@gmail.com,Florida,Ferrellgas,20lb,3,24.99,7.5,67.47,Delivery,2024-02-28
+3681345,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-01-28
+9653253,7455324,Hana,Stevens,hana_stevens@att.net,Massachusetts,AmeriGas,100lb,1,149.0,0.0,149.0,Delivery,2024-08-10
+6880713,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-10-21
+7497877,9037616,Dmitri,Stewart,dmitri_stewart@att.net,Indiana,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-05-13
+6394118,7444964,Pooja,Bailey,pooja74@outlook.com,Wisconsin,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-06-16
+5446036,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,AmeriGas,420lb,4,849.0,407.52,2988.48,Delivery,2024-02-27
+5819613,3777286,Benjamin,Taylor,benjamin93@comcast.net,Georgia,Suburban Propane,100lb,3,149.0,53.64,393.36,Pickup,2024-01-08
+1521470,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Suburban Propane,100lb,5,149.0,0.0,745.0,Pickup,2024-04-16
+7115185,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Ferrellgas,100lb,2,149.0,23.84,274.16,Pickup,2024-04-08
+2699577,3359075,Darius,Myers,darius.myers@icloud.com,Georgia,Blue Rhino,420lb,3,849.0,382.05,2164.95,Pickup,2024-07-05
+9933361,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-03-23
+8551295,7724045,Jessica,Adams,jessicaadams1603@gmail.com,Pennsylvania,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-02-02
+2719240,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-10-23
+7720828,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-12-15
+7785511,5130808,Antonio,Anderson,antonioanderson933@live.com,Louisiana,Suburban Propane,33lb,1,49.95,0.0,49.95,Pickup,2024-04-02
+9585651,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Blue Rhino,20lb,3,24.99,6.0,68.97,Pickup,2024-07-23
+1378303,2436347,Fatima,Hamilton,fatima.h61@sbcglobal.net,New Mexico,AmeriGas,420lb,4,849.0,0.0,3396.0,Pickup,2024-04-21
+7776291,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-08-05
+1088692,8108462,Peter,Jackson,peter.jackson@att.net,Kansas,NGL Energy,33lb,5,49.95,0.0,249.75,Pickup,2024-04-07
+6556840,7074006,Ingrid,Hall,ingrid.h6@sbcglobal.net,Wisconsin,AmeriGas,20lb,2,24.99,0.0,49.98,Delivery,2024-07-03
+5133011,5743227,Ethan,White,ethan_white@icloud.com,Louisiana,Ferrellgas,20lb,3,24.99,0.0,74.97,Delivery,2024-03-29
+2602797,3294774,Lamont,Anderson,landerson143@hotmail.com,Washington,Suburban Propane,1lb,2,4.49,0.0,8.98,Pickup,2024-07-01
+6255956,6312692,Marcus,Burns,marcusburns555@gmail.com,Massachusetts,AmeriGas,20lb,1,24.99,0.0,24.99,Delivery,2024-06-18
+5105930,7049927,Jessica,Webb,jessica.webb@att.net,California,Blue Rhino,420lb,3,849.0,203.76,2343.24,Delivery,2024-10-28
+3335893,8608449,Amit,Kim,amit41@yahoo.com,Massachusetts,Suburban Propane,420lb,4,849.0,0.0,3396.0,Delivery,2024-03-03
+8655554,3294774,Lamont,Anderson,landerson143@hotmail.com,Washington,Ferrellgas,33lb,4,49.95,0.0,199.8,Pickup,2024-01-19
+3413447,4769795,Susan,Ross,susan.r29@gmail.com,Texas,NGL Energy,420lb,4,849.0,339.6,3056.4,Pickup,2024-01-26
+7089123,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,NGL Energy,33lb,5,49.95,0.0,249.75,Delivery,2024-06-30
+1266510,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,Blue Rhino,1lb,2,4.49,0.0,8.98,Pickup,2024-06-16
+3128593,9230828,Emma,Carter,ecarter@aol.com,Minnesota,AmeriGas,33lb,1,49.95,0.0,49.95,Pickup,2024-12-09
+6482325,7640518,Patrick,Brown,patrick.brown@live.com,Wisconsin,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-06-13
+3464349,8095702,Linda,Watson,linda_watson@live.com,Louisiana,Ferrellgas,20lb,1,24.99,1.25,23.74,Delivery,2024-07-06
+3371133,2721170,Lars,Wright,larswright1637@hotmail.com,North Carolina,Suburban Propane,420lb,4,849.0,0.0,3396.0,Pickup,2024-04-08
+9277057,9037616,Dmitri,Stewart,dmitri_stewart@att.net,Indiana,Blue Rhino,100lb,1,149.0,11.92,137.08,Pickup,2024-06-25
+8950315,7084862,Destiny,Perry,destiny51@att.net,North Carolina,Blue Rhino,1lb,1,4.49,0.0,4.49,Delivery,2024-05-03
+1822048,1946973,Sofia,Wells,sofia.w94@hotmail.com,Louisiana,Ferrellgas,33lb,2,49.95,0.0,99.9,Delivery,2024-06-03
+3859007,8297090,Patrick,Moore,moore.p@yahoo.com,Connecticut,Ferrellgas,20lb,5,24.99,0.0,124.95,Delivery,2024-04-08
+6111364,8375356,Sanjay,Owens,sanjay.o78@sbcglobal.net,Ohio,Ferrellgas,20lb,5,24.99,0.0,124.95,Delivery,2024-06-27
+9094465,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Blue Rhino,33lb,5,49.95,0.0,249.75,Delivery,2024-01-27
+6748029,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-09-08
+3467651,5334434,Camille,Richardson,camille_richardson@live.com,Missouri,NGL Energy,100lb,3,149.0,0.0,447.0,Delivery,2024-02-12
+2344809,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-10-22
+1353566,5743227,Ethan,White,ethan_white@icloud.com,Louisiana,NGL Energy,1lb,1,4.49,0.0,4.49,Pickup,2024-06-14
+8405556,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,AmeriGas,33lb,2,49.95,14.98,84.92,Delivery,2024-02-14
+9318184,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-07-01
+2999683,2472884,Megan,Powell,megan_powell@yahoo.com,Oklahoma,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-04-29
+7146400,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,Blue Rhino,420lb,1,849.0,67.92,781.08,Delivery,2024-08-21
+7949507,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-04-30
+7744488,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-01-27
+5710310,2672884,Erik,Gibson,egibson@gmail.com,Ohio,Suburban Propane,420lb,2,849.0,203.76,1494.24,Pickup,2024-10-29
+2451316,6307805,Ali,Flores,ali.f51@aol.com,Ohio,Ferrellgas,100lb,4,149.0,0.0,596.0,Pickup,2024-01-20
+1316224,2038068,Zoe,Perez,zoeperez1108@aol,Illinois,Suburban Propane,100lb,4,149.0,47.68,548.32,Delivery,2024-07-25
+1620819,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,Blue Rhino,20lb,3,24.99,7.5,67.47,Delivery,2024-04-14
+2075091,2795765,Lucia,Ramirez,lucia_ramirez@hotmail.com,Indiana,Ferrellgas,20lb,3,24.99,3.75,71.22,Delivery,2024-08-24
+7305252,6664316,Fernando,Anderson,fernandoanderson168@gmail.com,Maryland,NGL Energy,420lb,4,849.0,169.8,3226.2,Pickup,2024-08-12
+4577436,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-07-31
+4624549,1047572,Patrick,Nelson,patrick_nelson@outlook.com,New York,NGL Energy,33lb,3,49.95,22.48,127.37,Delivery,2024-05-10
+6885707,7210606,Hiroshi,Morris,hiroshimorris1322@hotmail.com,Illinois,NGL Energy,33lb,5,49.95,0.0,249.75,Delivery,2024-04-06
+8923978,7262974,Omar,Garcia,omargarcia781@aol.com,Wisconsin,Suburban Propane,100lb,2,149.0,0.0,298.0,Pickup,2024-01-14
+2841010,9748499,Aoife,Bryant,aoife.bryant@gmail.com,Tennessee,AmeriGas,1lb,2,4.49,1.35,7.63,Pickup,2024-05-05
+3472747,2832517,Fatima,Reed,fatima.r30gmail.com,California,Ferrellgas,20lb,4,24.99,5.0,94.96,Pickup,2024-05-22
+3860721,2642635,Jennifer,Burns,jenniferburns1972@gmail.com,Oklahoma,Ferrellgas,33lb,4,49.95,0.0,199.8,Delivery,2024-08-03
+2935210,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,Blue Rhino,1lb,2,4.49,0.0,8.98,Pickup,2024-05-19
+8966231,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,NGL Energy,20lb,4,24.99,12.0,87.96,Pickup,2024-06-01
+8651518,3684131,Joseph,Adams,jadams146@live.com,Florida,Blue Rhino,1lb,5,4.49,2.25,20.2,Pickup,2024-07-30
+2696557,9646701,Priya,Henry,priya_henry@sbcglobal.net,New Mexico,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-05-16
+7417066,6539837,Dwight,Wright,dwight_wright@hotmail.com,Arizona,AmeriGas,33lb,5,49.95,37.46,212.29,Pickup,2024-08-09
+2034137,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,Blue Rhino,1lb,1,4.49,0.0,4.49,Delivery,2024-04-05
+2196822,5587856,Siobhan,Wright,wright.s@live.com,Utah,AmeriGas,33lb,4,49.95,0.0,199.8,Delivery,2024-09-20
+6599219,8318550,William,Bryant,william55@yahoo.com,Louisiana,AmeriGas,100lb,3,149.0,0.0,447.0,Pickup,2024-06-22
+3793996,7171347,Ricardo,West,ricardo_west@sbcglobal.net,Missouri,NGL Energy,20lb,1,24.99,0.0,24.99,Delivery,2024-02-26
+1631179,2919136,Fernando,Murphy,fernando_murphy@sbcglobal.net,Illinois,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-02-14
+9753488,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-07-02
+7919142,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Suburban Propane,100lb,3,149.0,0.0,447.0,Delivery,2024-10-21
+1599695,8149041,Kevin,Cole,kcole161@aol.com,Oklahoma,Blue Rhino,20lb,5,24.99,10.0,114.95,Delivery,2024-02-08
+2273196,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Ferrellgas,1lb,3,4.49,0.0,13.47,Pickup,2024-12-20
+4900918,9874152,Robert,Snyder,robertsnyder1997@hotmail,North Carolina,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-11-10
+6948065,1879109,Carlos,Gonzalez,carlosgonzalez1602@att.net,Oregon,AmeriGas,1lb,4,4.49,0.0,17.96,Pickup,2024-08-10
+1543292,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Blue Rhino,420lb,3,849.0,0.0,2547.0,Pickup,2024-09-19
+6227531,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Blue Rhino,20lb,4,24.99,0.0,99.96,Delivery,2024-10-19
+7790959,1669324,Yuki,Morris,yukimorris799@icloud.com,Iowa,AmeriGas,1lb,2,4.49,0.0,8.98,Delivery,2024-02-09
+5505300,5107245,Mei,Ellis,mei_ellis@comcast.net,Indiana,Ferrellgas,33lb,3,49.95,0.0,149.85,Pickup,2024-07-20
+7108168,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,NGL Energy,20lb,3,24.99,0.0,74.97,Delivery,2024-04-25
+7235796,9143903,Dmitri,Burns,dburns572@@outlook.com,Connecticut,Ferrellgas,420lb,3,849.0,0.0,2547.0,Pickup,2024-09-09
+4655356,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,Blue Rhino,420lb,2,849.0,0.0,1698.0,Pickup,2024-03-13
+7238503,6440561,Barbara,Rogers,barbara35@gmail.com,Florida,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-04-18
+6561881,1454696,Aaliyah,Ramos,aramos447@outlook.com,North Carolina,Suburban Propane,33lb,3,49.95,7.49,142.36,Delivery,2024-05-27
+2786185,1739653,James,Sanders,james_sanders@outlook.com,Nevada,NGL Energy,1lb,5,4.49,1.12,21.33,Delivery,2024-04-08
+5350628,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,AmeriGas,100lb,5,149.0,89.4,655.6,Pickup,2024-01-06
+7787310,7183841,Nadia,Singh,nadia87@comcast.net,Georgia,Suburban Propane,100lb,3,149.0,0.0,447.0,Delivery,2024-07-10
+5777490,3448176,William,Kelly,kelly.w@att.net,Pennsylvania,AmeriGas,20lb,4,24.99,10.0,89.96,Pickup,2024-12-11
+6772247,6204824,Raj,Scott,rajscott709@live.com,Colorado,Blue Rhino,100lb,5,149.0,59.6,685.4,Delivery,2024-02-15
+8152449,7444964,Pooja,Bailey,pooja74@outlook.com,Wisconsin,Suburban Propane,100lb,4,149.0,29.8,566.2,Delivery,2024-04-16
+1196256,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,NGL Energy,100lb,1,149.0,0.0,149.0,Delivery,2024-10-25
+8948342,5040453,Shanice,Singh,shanice.s82@outlook.com,North Carolina,Ferrellgas,420lb,4,849.0,0.0,3396.0,Pickup,2024-02-01
+8358018,7074006,Ingrid,Hall,ingrid.h6@sbcglobal.net,Wisconsin,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-01-07
+7956372,9468772,Kavita,Vasquez,kvasquez@sbcglobal.net,Nevada,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-07-28
+4454568,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,Ferrellgas,100lb,5,149.0,0.0,745.0,Delivery,2024-03-31
+9739850,1669324,Yuki,Morris,yukimorris799@icloud.com,Iowa,Suburban Propane,100lb,2,149.0,14.9,283.1,Pickup,2024-12-05
+3703298,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Blue Rhino,420lb,1,849.0,0.0,849.0,Pickup,2024-02-06
+9009715,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,Ferrellgas,100lb,4,149.0,59.6,536.4,Delivery,2024-04-30
+3369560,1675419,Joseph,Bailey,joseph.bailey@icloud.com,Georgia,Suburban Propane,20lb,3,24.99,0.0,74.97,Delivery,2024-08-28
+5203716,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Blue Rhino,1lb,3,4.49,2.02,11.45,Pickup,2024-08-30
+7520284,7067228,Elena,Collins,elena.collins@yahoo.com,Maryland,NGL Energy,100lb,5,149.0,74.5,670.5,Delivery,2024-07-18
+4683937,8318550,William,Bryant,william55@yahoo.com,Louisiana,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-12-10
+9218917,9993490,William,Mendoza,william.m19@live.com,Michigan,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-07-17
+4886793,5428914,Tamara,Harrison,tamara.harrison@hotmail.com,Tennessee,NGL Energy,20lb,1,24.99,0.0,24.99,Pickup,2024-02-03
+1086558,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,Suburban Propane,20lb,3,24.99,11.25,63.72,Pickup,2024-06-16
+7523750,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,Suburban Propane,1lb,5,4.49,1.8,20.65,Delivery,2024-11-08
+3763756,2832517,Fatima,Reed,fatima.r30@gmail.com,California,Blue Rhino,100lb,3,149.0,0.0,447.0,Delivery,2024-09-30
+5818458,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Suburban Propane,420lb,4,849.0,0.0,3396.0,Delivery,2024-07-10
+3433874,4551070,Ethan,Long,long.e@aol.com,Utah,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-01-06
+2387242,2867825,Richard,Diaz,richard.d95@icloud.com,New York,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-07-22
+8438704,2323049,Omar,Edwards,omar_edwards@att.net,Michigan,Blue Rhino,33lb,3,49.95,7.49,142.36,Delivery,2024-09-09
+7992286,4769795,Susan,Ross,susan.r29@gmail.com,Texas,NGL Energy,1lb,2,4.49,0.0,8.98,Delivery,2024-04-19
+3307798,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Ferrellgas,100lb,3,149.0,53.64,393.36,Pickup,2024-02-26
+9863756,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Suburban Propane,20lb,1,24.99,0.0,24.99,Delivery,2024-03-07
+3876011,7640518,Patrick,Brown,patrick.brown@live.com,Wisconsin,AmeriGas,420lb,2,849.0,254.7,1443.3,Delivery,2024-01-06
+3784505,4934149,Leila,Sanders,leilasanders358@aol.com,Georgia,NGL Energy,420lb,4,849.0,169.8,3226.2,Delivery,2024-02-23
+8123479,7262974,Omar,Garcia,omargarcia781@aol.com,Wisconsin,NGL Energy,100lb,5,149.0,89.4,655.6,Pickup,2024-07-16
+1109275,4431161,Priya,Cooper,priya37@att.net,Colorado,NGL Energy,100lb,5,149.0,0.0,745.0,Delivery,2024-01-01
+2456980,5428914,Tamara,Harrison,tamara.harrison@hotmail.com,Tennessee,Ferrellgas,100lb,3,149.0,0.0,447.0,Delivery,2024-05-05
+9930492,7138070,Sigrid,Wells,swells@hotmail.com,Connecticut,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-03-27
+9249220,4318855,Arjun,Allen,arjun.a20@att.net,Kansas,Suburban Propane,100lb,3,149.0,0.0,447.0,Pickup,2024-02-19
+9638526,1620485,Maeve,Stewart,maeve.s6@gmail.com,Arizona,NGL Energy,100lb,4,149.0,59.6,536.4,Pickup,2024-07-09
+7583744,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,AmeriGas,420lb,4,849.0,339.6,3056.4,Delivery,2024-08-06
+5475083,9796605,Jerome,Green,jgreen633@att.net,Connecticut,NGL Energy,33lb,2,49.95,14.98,84.92,Delivery,2024-02-09
+9213136,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-12-28
+1684054,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Blue Rhino,420lb,2,849.0,0.0,1698.0,Delivery,2024-06-03
+1937161,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Blue Rhino,100lb,1,149.0,0.0,149.0,Pickup,2024-03-26
+6615941,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Suburban Propane,420lb,2,849.0,0.0,1698.0,Pickup,2024-08-23
+8588532,7597509,Tamara,Bryant,tamara .b46@icloud.com,California,Suburban Propane,100lb,4,149.0,0.0,596.0,Delivery,2024-11-04
+2315459,1604451,Takeshi,Singh,tsingh@att.net,California,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-10-05
+9942931,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-02-17
+4219615,7223751,Aiko,Cole,acole@yahoo.com,Colorado,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-08-19
+9725395,1624315,Aoife,Ruiz,aoiferuiz555@yahoo.com,Ohio,Ferrellgas,100lb,4,149.0,0.0,596.0,Delivery,2024-04-12
+7336155,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Blue Rhino,100lb,2,149.0,29.8,268.2,Delivery,2024-09-20
+1509483,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,Suburban Propane,20lb,1,24.99,2.0,22.99,Delivery,2024-05-23
+7563570,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-05-04
+5034633,2893218,Thomas,Gonzalez,thomas.gonzalez@live.com,Florida,AmeriGas,420lb,5,849.0,0.0,4245.0,Pickup,2024-07-10
+9595138,4882808,Jessica,Hill,jessica.h59@gmail.com,Washington,NGL Energy,1lb,1,4.49,0.0,4.49,Delivery,2024-08-08
+3210769,4768844,Stephen,Nelson,stephen.nelson@gmail.com,Virginia,Blue Rhino,20lb,5,24.99,0.0,124.95,Pickup,2024-06-28
+3952542,1044891,Vikram,Chavez,vchavez671@live.com,Georgia,AmeriGas,100lb,1,149.0,7.45,141.55,Delivery,2024-06-10
+5077356,7372653,Rosa,Reed,rosa98@sbcglobal.net,Utah,AmeriGas,420lb,2,849.0,0.0,1698.0,Delivery,2024-07-04
+4229821,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-08-03
+4480849,5608259,Barbara,Russell,barbararussell710@att.net,Nevada,NGL Energy,100lb,5,149.0,0.0,745.0,Pickup,2024-10-10
+7398678,5200476,Richard,Lewis,richard.lewis@icloud.com,Utah,AmeriGas,100lb,3,149.0,53.64,393.36,Pickup,2024-12-09
+2828132,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-07-14
+1280502,3762487,Mei,Myers,mei67@icloud.com,Iowa,Blue Rhino,33lb,5,49.95,0.0,249.75,Pickup,2024-02-19
+4149818,3595941,Chantel,Cook,chantel72@yahoo.com,Washington,NGL Energy,20lb,1,24.99,1.25,23.74,Pickup,2024-07-01
+7500504,2221854,Ethan,Kim,ethan.k90@live.com,Colorado,Suburban Propane,100lb,2,149.0,23.84,274.16,Pickup,2024-09-03
+7064624,8948107,Lars,Gibson,lgibson@outlook.com,Arizona,NGL Energy,1lb,5,4.49,2.25,20.2,Delivery,2024-05-22
+2440404,7374122,Lamont,Ortiz,lamont_ortiz@aol.com,Wisconsin,AmeriGas,20lb,3,24.99,0.0,74.97,Delivery,2024-10-09
+3134439,8344365,Benjamin,Webb,bwebb@att.net,Kansas,Blue Rhino,20lb,2,24.99,0.0,49.98,Pickup,2024-09-08
+3588175,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,Ferrellgas,20lb,2,24.99,2.5,47.48,Pickup,2024-09-24
+8109386,3551903,Jerome,Wilson,jerome13@outlook.com,Oklahoma,NGL Energy,100lb,1,149.0,17.88,131.12,Delivery,2024-07-06
+3081317,7667458,Eduardo,Gutierrez,gutierrez.e@yahoo.com,Minnesota,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-02-09
+7049339,9225346,Chloe,White,chloe19@yahoo.com,Florida,Ferrellgas,420lb,5,849.0,0.0,4245.0,Pickup,2024-08-24
+4783595,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Suburban Propane,1lb,1,4.49,0.36,4.13,Pickup,2024-08-09
+9763038,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,NGL Energy,100lb,3,149.0,0.0,447.0,Delivery,2024-09-01
+4560421,5842082,Benjamin,Wright,benjamin_wright@sbcglobal.net,North Carolina,Suburban Propane,100lb,5,149.0,37.25,707.75,Pickup,2024-09-09
+3639223,2525206,Jennifer,Young,jyoung@outlook.com,Tennessee,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-07-13
+1839952,3726201,Emma,Gomez,emma.gomez@outlook.com,Connecticut,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-09-19
+6027079,7145971,Kenji,Henderson,kenji.henderson@live.com,Massachusetts,Ferrellgas,420lb,2,849.0,0.0,1698.0,Delivery,2024-08-31
+6877363,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,NGL Energy,33lb,3,49.95,14.99,134.86,Pickup,2024-07-10
+1418175,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,Suburban Propane,100lb,2,149.0,0.0,298.0,Delivery,2024-09-21
+7850856,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,33lb,3,49.95,0.0,149.85,Pickup,2024-10-24
+9157211,2038068,Zoe,Perez,zoeperez1108@@aol.com,Illinois,Ferrellgas,1lb,2,4.49,0.0,8.98,Pickup,2024-03-30
+4512830,4536777,Ricardo,Kim,ricardo.kim@live.com,Minnesota,NGL Energy,420lb,3,849.0,0.0,2547.0,Delivery,2024-09-19
+9394071,2672884,Erik,Gibson,egibson@gmail,Ohio,Suburban Propane,20lb,5,24.99,18.74,106.21,Pickup,2024-11-18
+5409875,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Blue Rhino,33lb,4,49.95,0.0,199.8,Delivery,2024-10-24
+1036553,7251976,Ana,Simpson,ana16@gmail.com,Tennessee,Blue Rhino,20lb,3,24.99,9.0,65.97,Delivery,2024-01-05
+2191383,6279418,Dmitri,Kennedy,dkennedy367@comcast.net,Ohio,NGL Energy,1lb,3,4.49,0.0,13.47,Pickup,2024-09-26
+4763297,8297090,Patrick,Moore,moore.p@yahoo.com,Connecticut,Blue Rhino,33lb,5,49.95,0.0,249.75,Pickup,2024-12-05
+6639627,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-04-28
+8691649,5418934,Andre,Evans,andreevans1857@att.net,Michigan,AmeriGas,420lb,1,849.0,0.0,849.0,Delivery,2024-08-05
+8750491,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-03-28
+3857465,7372653,Rosa,Reed,rosa98@sbcglobal.net,Utah,Blue Rhino,1lb,1,4.49,0.0,4.49,Pickup,2024-02-02
+8117053,9519948,Marcus,Torres,marcustorres1457@yahoo.com,Colorado,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-10-11
+9428504,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,AmeriGas,33lb,5,49.95,0.0,249.75,Pickup,2024-12-01
+7343232,8115687,Bjorn,Fisher,bjorn.f45@icloud.com,Ohio,AmeriGas,20lb,3,24.99,6.0,68.97,Delivery,2024-12-02
+8889458,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Suburban Propane,20lb,2,24.99,4.0,45.98,Pickup,2024-01-19
+5588489,5098412,Takeshi,Wood,twood1782@outlook.com,Indiana,Ferrellgas,420lb,5,849.0,0.0,4245.0,Delivery,2024-02-10
+5041494,7550190,Nadia,Gibson,gibson.n@hotmail.com,Connecticut,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-01-21
+2577526,6357240,Peter,Jordan,peter72@outlook.com,New York,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-06-20
+5678825,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Ferrellgas,33lb,1,49.95,0.0,49.95,Delivery,2024-03-15
+9927838,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-08-10
+3941912,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Suburban Propane,33lb,3,49.95,7.49,142.36,Delivery,2024-08-21
+1332781,1604451,Takeshi,Singh,tsingh@att.net,California,Suburban Propane,1lb,3,4.49,0.0,13.47,Pickup,2024-06-23
+4032275,4536777,Ricardo,Kim,ricardo.kim@live.com,Minnesota,AmeriGas,33lb,1,49.95,5.99,43.96,Pickup,2024-03-26
+9984304,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,Blue Rhino,100lb,3,149.0,0.0,447.0,Delivery,2024-03-25
+4018851,3049499,Ethan,Lewis,ethan.lewis@icloud.com,Georgia,AmeriGas,420lb,4,849.0,0.0,3396.0,Pickup,2024-02-25
+6818132,7322070,Dwight,Phillips,dwight46@sbcglobal.net,Massachusetts,Suburban Propane,20lb,5,24.99,0.0,124.95,Delivery,2024-11-07
+7127307,5437118,Sakura,Reynolds,sakura.reynolds@aol.com,Louisiana,Ferrellgas,20lb,5,24.99,18.74,106.21,Pickup,2024-06-13
+2703060,4240708,Jason,Reynolds,jason52comcast.net,Massachusetts,Ferrellgas,20lb,5,24.99,14.99,109.96,Delivery,2024-02-06
+3520615,5098412,Takeshi,Wood,twood1782@outlook.com,Indiana,Blue Rhino,20lb,3,24.99,0.0,74.97,Pickup,2024-09-17
+3997061,9996207,Clint,Rodriguez,clint_rodriguez@yahoo.com,North Carolina,AmeriGas,20lb,1,24.99,0.0,24.99,Pickup,2024-06-27
+6337290,4700025,Marcus,Rivera,rivera.m@hotmail.com,Colorado,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-06-11
+1718206,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-12-25
+3661058,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,AmeriGas,420lb,5,849.0,509.4,3735.6,Delivery,2024-11-01
+2576392,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-09-27
+7424539,9106820,Marcus,Garcia,garcia.m@gmail.com,Missouri,NGL Energy,420lb,1,849.0,0.0,849.0,Delivery,2024-03-30
+1327658,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,Suburban Propane,33lb,4,49.95,0.0,199.8,Delivery,2024-11-13
+8487448,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,AmeriGas,100lb,5,149.0,59.6,685.4,Pickup,2024-03-23
+4810582,7907400,Aisha,Ward,aishaward858@outlook.com,Oklahoma,AmeriGas,100lb,3,149.0,0.0,447.0,Delivery,2024-08-14
+7019590,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,AmeriGas,20lb,4,24.99,10.0,89.96,Delivery,2024-11-22
+2526163,9712003,Ahmed,Harris,ahmedharris956@comcast.net,Utah,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-09-24
+3025778,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-10-07
+8741107,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-05-17
+5379180,2739191,Antonio,Sanders,antonio.sanders@outlook.com,Arizona,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-07-04
+1238423,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-12-27
+9039158,8912226,Elizabeth,Baker,elizabeth.b42@att.net,Massachusetts,Blue Rhino,33lb,1,49.95,0.0,49.95,Pickup,2024-11-29
+4351238,3351868,Arjun,Turner,aturner586@hotmail.com,Nevada,Ferrellgas,420lb,2,849.0,0.0,1698.0,Delivery,2024-10-08
+8339925,8113787,Marcus,Cole,marcus_cole@comcast.net,Missouri,Ferrellgas,420lb,1,849.0,0.0,849.0,Pickup,2024-03-11
+9920146,1432519,Ana,Jones,ana.j42@aol.com,Texas,NGL Energy,420lb,4,849.0,0.0,3396.0,Pickup,2024-05-12
+7058725,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Suburban Propane,420lb,1,849.0,127.35,721.65,Pickup,2024-12-20
+9597330,3678638,Arjun,Morales,amorales@hotmail.com,Arizona,Suburban Propane,1lb,1,4.49,0.67,3.82,Pickup,2024-02-26
+1774096,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,AmeriGas,420lb,3,849.0,254.7,2292.3,Pickup,2024-02-26
+7701313,5928582,Harold,Perez,harold38@yahoo.com,Michigan,NGL Energy,100lb,4,149.0,0.0,596.0,Pickup,2024-07-10
+1336852,2321324,Aaliyah,McDonald,amcdonald@yahoo.com,Oregon,Ferrellgas,33lb,1,49.95,4.0,45.95,Delivery,2024-06-23
+6622207,5147994,Patrick,Olson,patrick.o57@sbcglobal.net,Florida,Suburban Propane,100lb,1,149.0,0.0,149.0,Delivery,2024-05-22
+6215882,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-12-09
+3412422,2323049,Omar,Edwards,omar_edwards@att.net,Michigan,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-01-09
+2542796,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,NGL Energy,1lb,5,4.49,0.0,22.45,Pickup,2024-06-26
+2280314,8212753,Jamal,Wood,jwood1154@live.com,Michigan,Blue Rhino,100lb,4,149.0,0.0,596.0,Delivery,2024-05-04
+1486416,3563646,Dmitri,Jackson,jackson.d@comcast.net,Nevada,Suburban Propane,1lb,1,4.49,0.0,4.49,Pickup,2024-10-14
+6739505,8607331,Ana,Mendoza,amendoza1229@comcast.net,Minnesota,Blue Rhino,420lb,5,849.0,424.5,3820.5,Pickup,2024-05-01
+1773774,8944327,Fatima,Cook,fcook@hotmail.com,Kansas,Blue Rhino,20lb,3,24.99,0.0,74.97,Pickup,2024-10-06
+4100912,3938247,Kavita,Simpson,kavita.simpson@sbcglobal.net,Massachusetts,Blue Rhino,1lb,1,4.49,0.0,4.49,Delivery,2024-05-27
+3445538,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-04-06
+6057845,6312692,Marcus,Burns,marcusburns555@gmail.com,Massachusetts,NGL Energy,100lb,1,149.0,7.45,141.55,Pickup,2024-09-30
+7391099,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,NGL Energy,33lb,4,49.95,0.0,199.8,Pickup,2024-10-17
+5861752,5960271,Lucia,King,king.l@icloud.com,Massachusetts,Suburban Propane,20lb,2,24.99,0.0,49.98,Delivery,2024-05-19
+8034544,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,NGL Energy,33lb,3,49.95,11.99,137.86,Delivery,2024-02-28
+6563023,2237331,Carlos,Price,cprice1029@yahoo.com,Missouri,AmeriGas,100lb,1,149.0,0.0,149.0,Pickup,2024-02-29
+4580053,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Blue Rhino,1lb,1,4.49,0.0,4.49,Delivery,2024-05-21
+5854206,7210606,Hiroshi,Morris,hiroshimorris1322@hotmail.com,Illinois,NGL Energy,33lb,5,49.95,0.0,249.75,Pickup,2024-06-09
+2808009,9164991,Valentina,Parker,valentina.p75@hotmail.com,Wisconsin,Suburban Propane,1lb,5,4.49,2.69,19.76,Delivery,2024-11-18
+1237053,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,Blue Rhino,33lb,3,49.95,0.0,149.85,Delivery,2024-04-20
+2790625,8399399,Dwight,Gonzalez,gonzalez.d@outlook.com,Tennessee,Blue Rhino,20lb,5,24.99,0.0,124.95,Delivery,2024-04-25
+5517272,7783308,Kevin,Stevens,kevin.stevens@outlook.com,Louisiana,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-08-05
+8590070,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,Suburban Propane,100lb,1,149.0,0.0,149.0,Delivery,2024-10-06
+5146548,5446344,Eugene,Patterson,eugene87@yahoo.com,Oklahoma,AmeriGas,100lb,2,149.0,0.0,298.0,Pickup,2024-12-15
+9665455,4769795,Susan,Ross,susan.r29@gmail.com,Texas,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-05-22
+2143565,5673599,Ricardo,Cook,ricardo.cook@comcast.net,Utah,Ferrellgas,420lb,3,849.0,0.0,2547.0,Pickup,2024-08-08
+4934808,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,AmeriGas,33lb,5,49.95,19.98,229.77,Delivery,2024-02-17
+8417942,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,Ferrellgas,100lb,2,149.0,0.0,298.0,Pickup,2024-03-09
+9903425,8926478,Sofia,Murray,sofia.murray@sbcglobal.net,Texas,AmeriGas,420lb,2,849.0,0.0,1698.0,Delivery,2024-01-21
+8942448,1447451,Sanjay,Hernandez,sanjay50@comcast.net,Florida,Blue Rhino,20lb,1,24.99,0.0,24.99,Pickup,2024-10-24
+9729340,3351868,Arjun,Turner,aturner586@hotmail.com,Nevada,Ferrellgas,420lb,5,849.0,0.0,4245.0,Delivery,2024-05-02
+7374025,7594429,Sigrid,King,sigrid.king@icloud.com,Michigan,Suburban Propane,420lb,2,849.0,0.0,1698.0,Delivery,2024-03-14
+2195114,7183841,Nadia,Singh,nadia87@comcast.net,Georgia,Suburban Propane,1lb,1,4.49,0.0,4.49,Pickup,2024-09-06
+5198933,8607331,Ana,Mendoza,amendoza1229@comcast.net,Minnesota,AmeriGas,420lb,1,849.0,0.0,849.0,Pickup,2024-03-04
+7751088,1674975,Jason,Murray,jmurray1951@att.net,Illinois,Ferrellgas,20lb,1,24.99,3.0,21.99,Delivery,2024-01-25
+6064152,4486102,Dmitri,Howard,dhoward@yahoo.com,Minnesota,NGL Energy,33lb,4,49.95,0.0,199.8,Delivery,2024-08-22
+3894531,7067228,Elena,Collins,elena.collins@yahoo.com,Maryland,Ferrellgas,420lb,5,849.0,339.6,3905.4,Delivery,2024-09-20
+8738351,4470105,Pooja,Coleman,pooja.coleman@live.com,Louisiana,Blue Rhino,33lb,3,49.95,0.0,149.85,Pickup,2024-09-06
+5112546,5476583,Camille,Young,young.c@hotmail.com,Texas,Blue Rhino,1lb,4,4.49,2.69,15.27,Delivery,2024-07-31
+4817030,4374754,Niamh,Jordan,njordan1917@aol.com,Nevada,NGL Energy,1lb,4,4.49,0.0,17.96,Delivery,2024-05-02
+1702283,1624315,Aoife,Ruiz,aoiferuiz555@yahoo.com,Ohio,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-02-20
+8445874,8344365,Benjamin,Webb,bwebb@att.net,Kansas,Suburban Propane,1lb,4,4.49,0.9,17.06,Delivery,2024-03-24
+7676164,9230828,Emma,Carter,ecarteraol.com,Minnesota,Suburban Propane,420lb,1,849.0,0.0,849.0,Delivery,2024-08-27
+1653284,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,AmeriGas,1lb,3,4.49,0.0,13.47,Pickup,2024-04-26
+4031576,9689889,Daniel,Thomas,daniel.t16@att.net,Nevada,AmeriGas,20lb,2,24.99,5.0,44.98,Pickup,2024-09-25
+3423170,1485654,Patricia,Long,patricia_long@gmail.com,Tennessee,Blue Rhino,20lb,2,24.99,0.0,49.98,Delivery,2024-09-29
+1469269,6422534,Dwight,Hill,dwighthill1035@sbcglobal.net,New Mexico,Ferrellgas,100lb,1,149.0,0.0,149.0,Pickup,2024-06-14
+6371304,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-10-12
+5897094,3294774,Lamont,Anderson,landerson143@hotmail.com,Washington,AmeriGas,20lb,4,24.99,0.0,99.96,Pickup,2024-10-01
+8730320,3420404,Stephen,Woods,stephen.woods@@comcast.net,Ohio,Ferrellgas,1lb,5,4.49,1.8,20.65,Pickup,2024-02-25
+2715524,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,NGL Energy,20lb,2,24.99,5.0,44.98,Delivery,2024-04-27
+2620464,5587856,Siobhan,Wright,wright.s@live.com,Utah,Blue Rhino,1lb,1,4.49,0.22,4.27,Pickup,2024-07-22
+4643644,9302946,Antoine,Watson,antoine.watson@att.net,Tennessee,Ferrellgas,420lb,2,849.0,0.0,1698.0,Delivery,2024-01-13
+9107893,7783308,Kevin,Stevens,kevin.stevens@outlook.com,Louisiana,Ferrellgas,1lb,5,4.49,0.0,22.45,Pickup,2024-10-31
+6492500,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Blue Rhino,33lb,4,49.95,19.98,179.82,Delivery,2024-07-28
+1435739,4816586,Brianna,Griffin,briannagriffin983@yahoo.com,Indiana,Suburban Propane,420lb,3,849.0,0.0,2547.0,Pickup,2024-04-04
+4678901,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,Ferrellgas,20lb,3,24.99,0.0,74.97,Pickup,2024-11-24
+8765840,9612629,Isabella,Griffin,isabella.g58@yahoo.com,Iowa,Blue Rhino,33lb,2,49.95,11.99,87.91,Pickup,2024-09-06
+5383230,3477824,Mohammed,Perez,mohammed_perez@outlook.com,Virginia,Ferrellgas,420lb,3,849.0,305.64,2241.36,Delivery,2024-02-27
+9725456,2319479,Priya,Cruz,priya.c22@aol.com,Florida,Ferrellgas,420lb,1,849.0,0.0,849.0,Delivery,2024-11-27
+7507893,9796605,Jerome,Green,jgreen633@att.net,Connecticut,Suburban Propane,420lb,2,849.0,0.0,1698.0,Pickup,2024-08-22
+2161974,8610913,Camille,Campbell,camille_campbell@aolcom,Maryland,Ferrellgas,100lb,1,149.0,17.88,131.12,Delivery,2024-06-14
+2130790,3673322,Shanice,Mendoza,smendoza1875@sbcglobal.net,Oregon,Blue Rhino,100lb,5,149.0,0.0,745.0,Pickup,2024-10-27
+8212098,7923579,Sanjay,Simpson,ssimpson@att.net,North Carolina,Suburban Propane,420lb,5,849.0,0.0,4245.0,Pickup,2024-10-05
+1820610,2373555,Erik,Hayes,erik73@att.net,New York,AmeriGas,33lb,4,49.95,23.98,175.82,Delivery,2024-03-21
+9137955,3198638,Ryo,Ramirez,rramirez@outlook.com,Maryland,Suburban Propane,100lb,5,149.0,0.0,745.0,Delivery,2024-09-03
+2850798,9801946,Sean,Walker,sean_walker@icloud.com,Illinois,NGL Energy,20lb,4,24.99,0.0,99.96,Delivery,2024-10-25
+8751799,9517169,Stephen,Ramirez,sramirez@aol.com,Kansas,AmeriGas,20lb,1,24.99,2.0,22.99,Pickup,2024-05-02
+1593302,7455324,Hana,Stevens,hana_stevens@att.net,Massachusetts,NGL Energy,100lb,2,149.0,0.0,298.0,Delivery,2024-03-24
+5684988,4431161,Priya,Cooper,priya37@att.net,Colorado,AmeriGas,33lb,5,49.95,24.98,224.77,Pickup,2024-05-25
+8169304,8795419,Sigrid,Crawford,sigrid57@live.com,Virginia,NGL Energy,1lb,3,4.49,0.0,13.47,Pickup,2024-12-27
+6827492,4024309,Dmitri,Morales,dmitri.m18@sbcglobal.net,Ohio,Ferrellgas,20lb,1,24.99,3.0,21.99,Delivery,2024-08-02
+2746679,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,Suburban Propane,20lb,3,24.99,0.0,74.97,Pickup,2024-10-20
+4569828,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Blue Rhino,420lb,1,849.0,0.0,849.0,Delivery,2024-12-18
+6602449,8399399,Dwight,Gonzalez,gonzalez.d@outlook.com,Tennessee,Blue Rhino,100lb,4,149.0,0.0,596.0,Delivery,2024-09-21
+9353796,7224540,Gunnar,Gonzalez,ggonzalez@live.com,New Mexico,AmeriGas,33lb,5,49.95,0.0,249.75,Delivery,2024-03-08
+6715319,6018975,Arjun,Bell,arjun_bell@sbcglobal.net,Oklahoma,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-07-16
+9820377,8175395,Carmen,Brown,carmenbrown1883@yahoo.com,Iowa,Suburban Propane,100lb,5,149.0,74.5,670.5,Delivery,2024-08-09
+9571853,6261415,Barbara,Thomas,bthomas1104@live.com,Illinois,Ferrellgas,1lb,4,4.49,0.0,17.96,Delivery,2024-11-03
+9042423,2832517,Fatima,Reed,fatima.r30@gmail.com,California,NGL Energy,420lb,4,849.0,0.0,3396.0,Pickup,2024-12-21
+2626815,8826111,Maria,Ward,maria.w13@sbcglobal.net,California,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-04-16
+4794852,6440561,Barbara,Rogers,barbara35@gmail.com,Florida,NGL Energy,100lb,1,149.0,14.9,134.1,Pickup,2024-07-26
+2513254,4348276,Emma,Sullivan,emma.s4@hotmail.com,Massachusetts,Blue Rhino,1lb,4,4.49,2.16,15.8,Delivery,2024-06-02
+5196677,1739653,James,Sanders,james_sanders@outlook.com,Nevada,Suburban Propane,100lb,5,149.0,0.0,745.0,Pickup,2024-07-01
+2063158,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,Ferrellgas,33lb,4,49.95,0.0,199.8,Pickup,2024-05-29
+4433287,6379867,Mohammed,James,mohammed.j39@outlook.com,North Carolina,Blue Rhino,20lb,3,24.99,11.25,63.72,Delivery,2024-10-08
+2064762,7171347,Ricardo,West,ricardo_west@sbcglobal.net,Missouri,AmeriGas,420lb,2,849.0,0.0,1698.0,Pickup,2024-06-05
+6309658,3508522,Paulo,Washington,paulowashington1664@comcast.net,Georgia,Blue Rhino,420lb,3,849.0,0.0,2547.0,Delivery,2024-09-04
+2660521,1604451,Takeshi,Singh,tsingh@att.net,California,Blue Rhino,1lb,2,4.49,0.0,8.98,Delivery,2024-03-05
+1544925,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,Ferrellgas,20lb,3,24.99,0.0,74.97,Delivery,2024-03-28
+6617699,4431161,Priya,Cooper,priya37@att.net,Colorado,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-04-11
+9659004,1985360,Erik,Martinez,erik.martinez@yahoo.com,Tennessee,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-07-09
+5986295,6170227,David,Patterson,david.patterson@hotmail.com,Louisiana,NGL Energy,33lb,1,49.95,0.0,49.95,Pickup,2024-10-19
+9509040,2229110,Freya,Nguyen,freya_nguyen@att.net,Iowa,AmeriGas,420lb,5,849.0,0.0,4245.0,Pickup,2024-07-14
+9457885,1447065,Monique,Howard,monique.h7@live.com,Louisiana,Ferrellgas,20lb,4,24.99,0.0,99.96,Pickup,2024-09-23
+2581127,8007741,Finn,Allen,finn.allen@comcast.net,Connecticut,Blue Rhino,420lb,5,849.0,0.0,4245.0,Delivery,2024-10-23
+7930088,1688246,Zoe,Patel,zoe61@icloud.com,Missouri,NGL Energy,420lb,1,849.0,0.0,849.0,Pickup,2024-10-22
+2813267,1628578,Robert,Gray,robertgray1976@live.com,Michigan,Suburban Propane,100lb,4,149.0,0.0,596.0,Pickup,2024-09-03
+4667881,2425342,Linda,Ramirez,linda.ramirez@outlook.com,North Carolina,Blue Rhino,100lb,5,149.0,0.0,745.0,Delivery,2024-09-07
+2342330,1620485,Maeve,Stewart,maeve.s6@gmail.com,Arizona,Blue Rhino,1lb,3,4.49,0.0,13.47,Delivery,2024-01-25
+7494523,6068298,Chantel,Reed,chantel_reed@comcast.net,Indiana,Ferrellgas,33lb,3,49.95,0.0,149.85,Delivery,2024-09-14
+9124251,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,Ferrellgas,33lb,1,49.95,5.0,44.95,Delivery,2024-01-15
+1887084,9214801,Diego,Hayes,dhayes781@att.net,Minnesota,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-02-09
+5186600,6438436,Ebony,Garcia,ebony40@yahoo.com,Georgia,AmeriGas,33lb,3,49.95,0.0,149.85,Pickup,2024-12-11
+6446792,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,Ferrellgas,100lb,4,149.0,0.0,596.0,Delivery,2024-06-17
+1149283,1987737,Boris,Thompson,boris66@gmail.com,Georgia,Suburban Propane,20lb,2,24.99,0.0,49.98,Pickup,2024-01-02
+5731917,2919549,Lucia,Murphy,lmurphy1893@comcast.net,Tennessee,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-05-19
+9409604,3846949,Aaliyah,Wood,aaliyah97@att.net,Georgia,Ferrellgas,1lb,3,4.49,0.0,13.47,Pickup,2024-08-08
+4944513,6217344,Roberto,Bennett,roberto.b18@aol.com,Oregon,Ferrellgas,20lb,5,24.99,0.0,124.95,Delivery,2024-06-19
+1544120,8795419,Sigrid,Crawford,sigrid57@live.com,Virginia,NGL Energy,420lb,3,849.0,0.0,2547.0,Pickup,2024-04-16
+2290796,2458591,Arjun,Martinez,arjunmartinez522@gmail.com,Missouri,Ferrellgas,20lb,5,24.99,14.99,109.96,Delivery,2024-07-31
+5317535,6455706,Hana,Washington,hwashington1110@hotmail.com,Tennessee,NGL Energy,420lb,2,849.0,0.0,1698.0,Pickup,2024-12-15
+3986412,9993490,William,Mendoza,william.m19@live.com,Michigan,Ferrellgas,20lb,5,24.99,0.0,124.95,Pickup,2024-04-27
+7760181,6989032,Jennifer,Foster,jenniferfoster1712@hotmail.com,Tennessee,AmeriGas,420lb,1,849.0,0.0,849.0,Delivery,2024-07-10
+2898577,7251976,Ana,Simpson,ana16@gmail.com,Tennessee,NGL Energy,100lb,3,149.0,44.7,402.3,Pickup,2024-02-25
+1701728,5093379,Isabella,Johnson,johnson.i@yahoo.com,Connecticut,NGL Energy,100lb,3,149.0,0.0,447.0,Pickup,2024-01-26
+7350486,5098412,Takeshi,Wood,twood1782@outlook.com,Indiana,Ferrellgas,420lb,1,849.0,0.0,849.0,Delivery,2024-04-15
+8939453,2373555,Erik,Hayes,erik73@att.net,New York,AmeriGas,33lb,2,49.95,0.0,99.9,Delivery,2024-02-27
+8989103,6020319,Eugene,Alvarez,ealvarez1526@att.net,Michigan,Ferrellgas,420lb,3,849.0,0.0,2547.0,Delivery,2024-12-30
+2180539,5928582,Harold,Perez,harold38@yahoo.com,Michigan,Suburban Propane,33lb,5,49.95,37.46,212.29,Pickup,2024-03-27
+8637262,8719145,Kenji,Clark,kenjiclark573@comcast.net,Louisiana,Blue Rhino,1lb,4,4.49,0.0,17.96,Pickup,2024-02-27
+3346211,4240708,Jason,Reynolds,jason52@comcast.net,Massachusetts,Ferrellgas,100lb,2,149.0,23.84,274.16,Delivery,2024-12-03
+6580192,2373555,Erik,Hayes,erik73@att.net,New York,AmeriGas,100lb,5,149.0,0.0,745.0,Pickup,2024-12-27
+7304414,8519121,William,Lewis,william.l89@hotmail.com,Georgia,AmeriGas,1lb,4,4.49,0.0,17.96,Delivery,2024-05-21
+6111753,8612582,Leila,Reyes,leila.r93@hotmail.com,Pennsylvania,AmeriGas,1lb,2,4.49,0.72,8.26,Pickup,2024-08-24
+1390292,9214801,Diego,Hayes,dhayes781@att.net,Minnesota,Ferrellgas,100lb,2,149.0,0.0,298.0,Delivery,2024-10-18
+1406129,1563316,Nathan,Thomas,nathan.thomas@icloud.com,Georgia,AmeriGas,1lb,3,4.49,2.02,11.45,Pickup,2024-02-12
+5900455,2338687,Irina,Walker,irina_walker@@comcast.net,Utah,AmeriGas,33lb,2,49.95,0.0,99.9,Pickup,2024-07-16
+4991389,7358385,Eugene,Rodriguez,eugene63@sbcglobal.net,Pennsylvania,AmeriGas,1lb,3,4.49,0.0,13.47,Delivery,2024-04-20
+4333024,4318855,Arjun,Allen,arjun.a20@attnet,Kansas,AmeriGas,100lb,3,149.0,53.64,393.36,Pickup,2024-12-09
+2831995,6503032,Yuri,Jackson,yuri_jackson@sbcglobal.net,New York,Blue Rhino,1lb,3,4.49,0.67,12.8,Delivery,2024-08-25
+3653760,8290770,Peter,Hughes,peterhughes863@comcast.net,Pennsylvania,NGL Energy,420lb,4,849.0,0.0,3396.0,Delivery,2024-04-12
+4099902,2374158,Antoine,Garcia,antoine.garcia@att.net,New Mexico,AmeriGas,20lb,3,24.99,3.75,71.22,Delivery,2024-03-17
+7468887,9935249,Boris,Wells,boris51@att.net,Oklahoma,Suburban Propane,420lb,5,849.0,509.4,3735.6,Pickup,2024-11-14
+7888843,3457461,Finn,Anderson,finnanderson784@hotmail.com,New Mexico,AmeriGas,1lb,2,4.49,0.0,8.98,Pickup,2024-10-22
+2221451,1663497,Sarah,Parker,sarah.p27@live.com,Oklahoma,Blue Rhino,1lb,5,4.49,0.0,22.45,Delivery,2024-05-20
+7329894,3938247,Kavita,Simpson,kavita.simpson@sbcglobal.net,Massachusetts,Ferrellgas,100lb,4,149.0,59.6,536.4,Pickup,2024-09-13
+8990039,2237331,Carlos,Price,cprice1029@yahoo.com,Missouri,Suburban Propane,33lb,2,49.95,0.0,99.9,Delivery,2024-09-08
+9560523,9795159,Hana,Nelson,hana.nelson@icloud.com,New York,Ferrellgas,100lb,1,149.0,0.0,149.0,Delivery,2024-09-28
+5356836,5856117,Shannon,Sanchez,ssanchez1604@gmail.com,Illinois,AmeriGas,1lb,1,4.49,0.0,4.49,Pickup,2024-09-03
+8057906,9874152,Robert,Snyder,robertsnyder1997@hotmail.com,North Carolina,Ferrellgas,1lb,5,4.49,0.0,22.45,Delivery,2024-09-19
+2458649,1432519,Ana,Jones,ana.j42@aol.com,Texas,Ferrellgas,100lb,3,149.0,0.0,447.0,Pickup,2024-08-19
+8980532,9961299,Carlos,Diaz,carlos.diaz@gmail.com,Indiana,Ferrellgas,20lb,1,24.99,0.0,24.99,Delivery,2024-09-04
+7052024,1615675,Ethan,Clark,ethan_clark@aol.com,Maryland,Suburban Propane,33lb,1,49.95,2.5,47.45,Pickup,2024-05-03
+5880999,5780297,Nathan,Morgan,nathan.m61@att,Iowa,Ferrellgas,420lb,2,849.0,0.0,1698.0,Delivery,2024-04-27
+9854875,7844947,Brianna,Cook,bcook315@yahoo.com,Utah,NGL Energy,20lb,4,24.99,0.0,99.96,Pickup,2024-02-17
+6741177,1098919,Hiroshi,Gray,gray.h@comcast.net,Wisconsin,NGL Energy,20lb,2,24.99,0.0,49.98,Pickup,2024-03-26
+2316088,6204824,Raj,Scott,rajscott709@live.com,Colorado,AmeriGas,20lb,5,24.99,0.0,124.95,Delivery,2024-05-24
+8624921,3508522,Paulo,Washington,paulowashington1664@comcast.net,Georgia,Suburban Propane,20lb,4,24.99,0.0,99.96,Pickup,2024-02-10
+8591832,7268384,Sanjay,Vasquez,sanjay.v32@sbcglobal.net,Massachusetts,Ferrellgas,420lb,3,849.0,305.64,2241.36,Delivery,2024-05-14
+2834838,8713146,Valentina,Griffin,valentina_griffin@outlook.com,Maryland,Blue Rhino,33lb,1,49.95,0.0,49.95,Delivery,2024-11-05
