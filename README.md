@@ -107,19 +107,19 @@ K-Means clustering using purchase frequency, total spent, median gap days and cu
 
 ## Recommendations
 
-**1. New Customer Acquisition**
+**1. New Customer Acquisition** :
 The business must urgently address the near-complete stop in new customer acquisition after February. Structured acquisition campaigns targeting new geographic areas, digital marketing investment, and referral incentives for existing loyal customers are needed to replenish the customer pipeline consistently throughout the year.
 
-**2. Time-Based Personalised Marketing**
+**2. Time-Based Personalised Marketing**:
 Since each customer's expected next purchase date is now known, the business should schedule targeted marketing emails to be sent **one week before** each customer is due. Email content should be tailored by cluster segment — premium retention messaging for High Value customers, warm refill reminders for Loyal customers, urgent incentive-led offers for At-Risk customers, and re-engagement campaigns for Lost customers.
 
-**3. Restructure Discount Strategy**
+**3. Restructure Discount Strategy**:
 The current discount approach was proven to have no impact on purchase quantity or revenue per transaction. The business should discontinue broad unstructured discounting and redirect that **$33,283.80** budget into targeted, purposeful campaigns tied to measurable outcomes particularly for At-Risk and Lost customer recovery.
 
-**4. Regional Growth**
+**4. Regional Growth**:
 The significant gap between top states like Georgia (86 transactions) and bottom states like Virginia (25 transactions) represents an untapped growth opportunity. Localised campaigns and improved distribution coverage in underperforming states could meaningfully grow overall transaction volume.
 
-**5. Seasonal Planning**
+**5. Seasonal Planning**:
 The consistent year-end slowdown in November and December should be anticipated in advance. Inventory and operational costs should be planned accordingly, and the quiet period used to run re-engagement campaigns targeting churned and at-risk customers ahead of the January peak.
 
 ---
