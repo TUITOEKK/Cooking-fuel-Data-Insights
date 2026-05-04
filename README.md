@@ -8,7 +8,8 @@ A Python data analysis project to understand customer purchasing behaviour, iden
 
 ## Project Overview
 
-This project presents a sales analysis for a cooking fuel distribution business, designed to deliver actionable insights into customer behaviour, product performance, and sales trends. The analysis covers three layers:
+This project presents a sales analysis for a cooking fuel distribution business selling 
+different varieties. The project is designed to deliver actionable insights into customer behaviour, product performance, and sales trends. The analysis covers three layers:
 
 - **Descriptive Analysis** — understanding what happened
 - **Diagnostic Analysis** — understanding why it happened
